@@ -1,0 +1,1786 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="Content-Type" content="text/html; charset=gb2312" /><meta name="viewport" content="width=1200" /><title>
+	民间文学-中图网
+</title><meta name="keywords" content="中国图书网，网上书店，书店，特价书，童书，特价图书，少儿图书，好书推荐，畅销书，淘书，图书，书籍，促销" /><meta name="description" content="中国图书网（中图网）：网上书店，创办于1998年，通过好书推荐、畅销书、淘书团、特色专题等栏目及各种促销活动，致力于为读者提供价廉物美的正版优质书籍，是爱书人的淘书圣地。" /><link type="text/css" rel="stylesheet" href="/css/reset.css?id=1" /><link type="text/css" rel="stylesheet" href="/css/common1.css?id=0914" /><link type="text/css" rel="stylesheet" href="/shopcar/css/simplepop.css" /><link type="text/css" rel="stylesheet" href="/css/kindlist.css?id=0914123" />
+    <script type="text/javascript" src="/Include/js/jquery.min.js"></script>
+    <script type="text/javascript" src="/groupbuy/js/jquery.scrollLoading.js"></script>
+    <script type="text/javascript" src="/groupbuy/js/jquery.SuperSlide.2.1.2.js"></script>
+    <script type="text/javascript" src="/shopcar/js/simplepop.js?id=1"></script>
+    <script type="text/javascript" src="/groupbuy/js/autocomplete.js"></script>
+</head>
+<body>
+    <form method="post" action="?Book_us_Flh=53120000&amp;spid=0&amp;sdid=0&amp;sort=11&amp;sh=0&amp;so=1&amp;p=13&amp;ps=0&amp;pe=0" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJODE3Nzk4NDQwZGR1XizTQMg41izntsZyWXAAZq73Uh6oxxGKhzWTYSTUpw==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="4D87733E" />
+        
+<!--顶部工具栏-->
+<div class="topBar">
+    <div class="w1200 clearfix">
+        <!--登入 注册-->
+        <div class="loginArea">
+            <b>欢迎光临中国图书网&nbsp;请</b><a href="/RegUser/login.aspx" target="_blank" class="login">登录</a>
+            <span>|</span>
+            <a href="/RegUser/Register.aspx" target="_blank" class="regist">注册</a>
+        </div>
+        <!--右侧工具栏-->
+        <div class="webTool">
+            <ul class="clearfix">
+                <li>
+                    <div class="dt">
+                        <a href="/shopcar/shoppingcart.aspx" target="_blank">购物车</a>
+                    </div>
+                </li>
+                <li>
+                    <div class="dt">
+                        <a href="/vieworder/listorder.aspx" target="_blank">我的订单</a>
+                    </div>
+                </li>
+                <li class="drop">
+                    <div class="dt">
+                        <a href="/vieworder/default.aspx" target="_blank">我的账户</a>
+                        <b class="icon"></b>
+                    </div>
+                    <div class="dropLayer" style="width: 162px;">
+                        <a href="/Favorites/Default.aspx" target="_blank">我的收藏夹</a>
+                        <a href="/ViewOrder/deposit.aspx" target="_blank">账户余额</a>
+                        <a href="/vieworder/mycoupons.aspx" target="_blank">我的优惠券</a>
+                        <a href="/vieworder/user_score.aspx" target="_blank">我的积分</a>
+                        <a href="/RegUser/myaddress.aspx" target="_blank">收货地址</a>
+                        <a href="/Favorites/Book_review.aspx" target="_blank">我的书评</a>
+                        <a href="/sms/smslist.aspx" target="_blank">我的消息</a>
+                        <a href="/vieworder/points_change.aspx" target="_blank">积分换券</a>
+                    </div>
+                </li>
+                <li>
+                    <div class="dt">
+                        <a href="/question/default1.asp" target="_blank">帮助中心</a>
+                        <!--<a href="javascript:void(0);" target="_blank">联系客服</a>-->
+                        <!--<b class="icon"></b>-->
+                    </div>
+                    <!--<div class="dropLayer">
+                        <a href="/question/default1.asp" target="_blank">帮助中心</a>
+                    </div>-->
+                </li>
+
+                <li class="drop">
+                    <div class="dt">
+                        <a href="http://m.bookschina.com/" target="_blank">手机中图</a>
+                        <b class="icon"></b>
+                    </div>
+                    <div class="dropLayer" style="right: 0; left: initial; width: 164px; padding-bottom: 7px; padding-left: 5px;">
+                        <div class="erweimaWrap">
+                            <div class="erweima">
+                                <img src="/Images/weiboerweima.jpg" alt="中图网微博" />
+
+                            </div>
+                            <div class="text">
+                                <b>扫一扫</b>
+                                <span>
+                                    关注中图网<br />
+                                    官方微博
+                                </span>
+                            </div>
+                        </div>
+                        <div class="erweimaWrap">
+                            <div class="erweima">
+                                <img src="/Images/weixinerweima.jpg" alt="中图网微信" />
+                            </div>
+                            <div class="text">
+                                <b>扫一扫</b>
+                                <span>
+                                    关注中图网<br />
+                                    微信公众号
+                                </span>
+                            </div>
+                        </div>
+                        <div class="erweimaWrap">
+                            <div class="erweima">
+                                <img src="/Images/phoneerweima.jpg" alt="手机中图" />
+                            </div>
+                            <div class="text">
+                                <b>手机中图</b>
+                                <span>
+                                    进入中图网<br />
+                                    手机触屏版
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+
+            </ul>
+        </div>
+    </div>
+</div>
+<!--搜索区域-->
+<div class="searchBar">
+    <div class="w1200 clearfix">
+        <!--logo-->
+        <div class="logo">
+            <a href="/" title="中国图书网">
+                <img src="/Images/logo0508.png" alt="中国图书网" />
+            </a>
+        </div>
+        <!--搜索区域-->
+        <div class="searchArea">
+            <div class="clearfix">
+                <div class="searchFrom clearfix">
+                    <span class="inputWrap">
+                        <input type="text" id="keyword" name="keyword" value="孤独无处诉" onclick="if ($.trim($(this).val()) == $.trim($(this).attr('datavalue'))) { $(this).prop('value', '') }" onblur="if (!$.trim($(this).val())) { $(this).prop('value', $(this).attr('datavalue')) }" datavalue="孤独无处诉" />
+                    </span>
+                    <a href="javascript:void(0)" class="searchBut">搜索</a>
+                    <div class="dropSearch">
+                        <dl>
+                            <dt><span>搜索全部<b class="icon"></b></span></dt>
+                            <dd>
+                                <ul id="search_cates">
+                                    <li id="cate_0" class="on">搜索全部</li>
+                                    <li id="cate_1">书名</li>
+                                    <li id="cate_3">作者</li>
+                                    <li id="cate_4">出版社</li>
+                                    <li id="cate_2">ISBN</li>
+                                </ul>
+                            </dd>
+                        </dl>
+                    </div>
+                </div>
+                <script src="../../shopcar/js/jsHelper.js"></script>
+                <script type="text/javascript">
+                    var keyword = getParam("stp");
+                    var cate = getParam("sCate");
+                    if (keyword != undefined && keyword.length > 0)
+                        $("#keyword").val(unescape(keyword));
+                    if (cate != undefined && cate.length > 0) {
+                        $('#search_cates').find('.on').removeClass('on');
+                        $('#cate_' + cate).addClass('on');
+                        $(".dropSearch dt").html('<span>' + $('#cate_' + cate).html() + '<b class="icon"></b></span>');
+                        $(".dropSearch dd").hide();
+                    }
+                </script>
+                <div class="moreSearch"><a href="/book_find2/AdvancedSearch/AdvancedSearch.aspx" target="_blank">高级搜索</a></div>
+            </div>
+            <div class="hotWord">
+                <a href="/2910719.htm" target="_blank">私人生活史</a><a href="/5677973.htm" target="_blank">偶发空缺</a><a href="/1277759.htm" target="_blank">醒来闻闻咖啡香</a><a href="/6599200.htm" target="_blank">闲话二十-主流之外</a>
+            </div>
+        </div>
+        <script type="text/javascript">
+            /*点击搜索按钮*/
+            $(".searchBut").click(function () {
+                var Keyword = $.trim($("#keyword").val());
+                var sCategory = $("#search_cates .on").attr('id').replace("cate_", "");
+                if (Keyword == "") {
+                    Keyword = $.trim($("#keyword").attr('placeholder'));
+                }
+                window.open("/book_find2/?stp=" + escape(Keyword) + "&sCate=" + sCategory);
+                $("#bigAutocompleteContent").hide();
+            })
+
+            /*按回车键 搜索*/
+            $("#keyword").keypress(function (event) {
+                var e = event ? event : (window.event ? window.event : null);
+                var key = e.which;
+                if (key == 13) {
+                    var Keyword = $.trim($("#keyword").val())
+                    var sCategory = $("#search_cates .on").attr('id').replace("cate_", "");
+                    if (Keyword != "") {
+                        window.open("/book_find2/?stp=" + escape(Keyword) + "&sCate=" + sCategory);
+                        $("#bigAutocompleteContent").hide();
+                    }
+                }
+            })
+            // 分类搜索
+            $(".dropSearch dl dt").hover(function () {
+                $(".dropSearch dd").show();
+            })
+            $(".dropSearch").mouseleave(function () {
+                $(".dropSearch dd").hide();
+            })
+            $(".dropSearch dd ul li").click(function () {
+                var $this = $(this);
+                $this.addClass("on").siblings().removeClass("on");
+                $(".dropSearch dt").html('<span>' + $this.html() + '<b class="icon"></b></span>');
+                $(".dropSearch dd").hide();
+            })
+            /*下拉框*/
+            $("#keyword").bigAutocomplete({
+                width: 428, url: "/book_find2/ajax/", callback: function (data) {
+                    window.open("/book_find2/?stp=" + escape(data.label) + "");
+                }
+            })
+        </script>
+
+
+
+
+
+        <!--头部图片轮播-->
+        <div class="headBookFocus">
+<div class="headBookFocusInner">
+<div class="headBookFocusPanel">
+<ul class="clearfix">
+<li><div class="bookCover"><a href="http://www.bookschina.com/5628000.htm" target="_blank" title="世界和其他地方"><img src="http://image12.bookschina.com/2013/20130404/B5628000.jpg" alt="世界和其他地方" /></a></div><div class="bookInfo"><div class="bookName"><a href="http://www.bookschina.com/5628000.htm" target="_blank" title="世界和其他地方">世界和其他地方</a></div><p>作者：珍妮特&#8226;温特森(作者), 虹影, 刘瑜, 等 (译者)</p></div></li>
+</ul>
+</div>
+</div>
+</div>
+
+
+        <script type="text/javascript">
+            //  图书轮播
+            $(".headBookFocus").slide({ mainCell: ".headBookFocusPanel ul", effect: "leftLoop", interTime: 5000, pageStateCel: ".pageState", autoPlay: true })
+            // 图片
+            $(".headPicFocus").slide({ mainCell: ".headPicFocusPanel ul", titCell: ".buttonWrap span", interTime: 5000, autoPlay: true })
+            // 公告
+            $(".notice").slide({ mainCell: ".noticePanel ul", interTime: 3000, effect: "topLoop", autoPlay: true })
+        </script>
+        <script type="text/javascript">
+            //图书网搜索补全下拉
+            $("#keyword").bigAutocomplete({
+                url: "/book_find2/ajax/", callback: function (data) {
+                    window.open("/book_find2/?stp=" + escape(data.label) + "");
+                }
+            });
+            $(".searchArea .searchFrom .dropSearch").hover(function () {
+                var $this = $(this);
+                $this.find("dd").show();
+            }, function () {
+                var $this = $(this);
+                $this.find("dd").hide();
+            });
+        </script>
+    </div>
+</div>
+<!--导航-->
+<div id="nav">
+    <div class="w1200 clearfix">
+        <div class="category-content">
+            <div class="nav_category clearfix">
+                <div class="all-goods">
+                    <h2>图书分类<span class="icon"></span></h2>
+                    <div class="category" id="webCategory">
+                        <div class="categoryInner">
+                            <ul class="category-list">
+                                <li class="js_toggle">
+                                    <div class="category-info">
+                                        <h3 class="category-name">
+                                            <a href="/books/literature/index.html" class="ml-22" target="_blank">文学</a>
+                                        </h3>
+                                        <p class="c-category-list">
+                                            <a href="/kinder/54000000/" target="_blank">小说</a>
+                                            <a href="/kinder/46000000/" target="_blank">青春文学</a>
+                                            <a href="/kinder/53210000/" target="_blank">中国散文</a>
+                                            <a href="/kinder/53140000/" target="_blank">外国散文</a>
+                                            <a href="/kinder/54290000/" target="_blank">悬疑推理</a>
+                                            <a href="/kinder/53160000/" target="_blank">文学理论</a>
+                                            <a href="/kinder/53150000/" target="_blank">文集</a>
+                                            <a href="/kinder/54330000/" target="_blank">世界名著</a>
+                                        </p>
+                                        <em>&gt;</em>
+                                    </div>
+                                    <div class="menu-item">
+                                        <div class="area-bg">
+                                            <!--分类列表-->
+                                            <ul class="sublist clearfix">
+                                                <li>
+                                                    <h3 class="mcate-item-hd"><a href="/kinder/54000000/" target="_blank">小说</a></h3>
+                                                    <p class="mcate-item-bd">
+                                                        <a href="/kinder/54140000/" target="_blank">外国小说</a><span>|</span>
+                                                        <a href="/kinder/54110000/" target="_blank">中国当代小说</a><span>|</span>
+                                                        <a href="/kinder/54120000/" target="_blank">中国古典小说</a><span>|</span>
+                                                        <a href="/kinder/54130000/" target="_blank">中国近现代小说</a><span>|</span>
+                                                        <a href="/kinder/54290000/" target="_blank">悬疑推理</a><span>|</span>
+                                                        <a href="/kinder/54210000/" target="_blank">科幻小说</a><span>&nbsp;</span>
+                                                        <a href="/kinder/54330000/" target="_blank">世界名著</a>
+                                                        <a href="/kinder/54320000/" target="_blank">四大名著</a><span>|</span>
+                                                        <a href="/kinder/54310000/" target="_blank">作品集</a><span>|</span>
+                                                        <a href="/kinder/54000000/" target="_blank">更多</a>
+                                                    </p>
+                                                </li>
+                                                <li>
+                                                    <h3 class="mcate-item-hd"><a href="/kinder/53000000/" target="_blank">文学</a></h3>
+                                                    <p class="mcate-item-bd">
+                                                        <a href="/kinder/53130000/" target="_blank">外国诗歌</a><span>|</span>
+                                                        <a href="/kinder/53190000/" target="_blank">中国古诗词</a><span>|</span>
+                                                        <a href="/kinder/53200000/" target="_blank">中国现当代诗歌</a><span>|</span>
+                                                        <a href="/kinder/53140000/" target="_blank">外国散文</a><span>|</span>
+                                                        <a href="/kinder/53210000/" target="_blank">中国现当代散文</a><span>|</span>
+                                                        <a href="/kinder/53180000/" target="_blank">中国古代散文</a>
+                                                        <a href="/kinder/53160000/" target="_blank">文学理论</a><span>|</span>
+                                                        <a href="/kinder/53150000/" target="_blank">文集</a><span>|</span>
+                                                        <a href="/kinder/53170000/" target="_blank">戏剧</a><span>|</span>
+                                                        <a href="/kinder/53000000/" target="_blank">更多</a>
+                                                    </p>
+                                                </li>
+                                                <li>
+                                                    <h3 class="mcate-item-hd"><a href="/kinder/46000000/" target="_blank">青春文学 </a></h3>
+                                                    <p class="mcate-item-bd">
+                                                        <a href="/kinder/46150000/" target="_blank">玄幻/科幻</a><span>|</span>
+                                                        <a href="/kinder/46160000/" target="_blank">悬疑/惊悚</a><span>|</span>
+                                                        <a href="/kinder/46130000/" target="_blank">叛逆/成长</a><span>|</span>
+                                                        <a href="/kinder/46120000/" target="_blank">爆笑/无厘头</a><span>|</span>
+                                                        <a href="/kinder/46140000/" target="_blank">校园</a><span>|</span>
+                                                        <a href="/kinder/46190000/" target="_blank">港台青春文学</a><span>|</span>
+                                                        <a href="/kinder/46210000/" target="_blank">外国青春文学</a>
+                                                        <a href="/kinder/46000000/" target="_blank">更多</a>
+                                                    </p>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="js_toggle">
+                                    <div class="category-info list-nanz">
+                                        <h3 class="category-name">
+                                            <a href="/books/socialscience/index.html" class="ml-22" target="_blank">社科</a>
+                                        </h3>
+                                        <p class="c-category-list">
+                                            <a href="/kinder/54220000/" target="_blank">历史</a>
+                                            <a href="/kinder/61000000/" target="_blank">哲学/宗教</a>
+                                            <a href="/kinder/48000000/" target="_blank">社会科学</a>
+                                            <a href="/kinder/62000000/" target="_blank">政治军事 </a>
+                                            <a href="/kinder/14000000/" target="_blank">传记</a>
+                                            <a href="/kinder/52000000/" target="_blank">文化</a>
+                                            <a href="/kinder/23000000/" target="_blank">古籍</a>
+                                            <a href="/kinder/24000000/" target="_blank">管理</a>
+                                            <a href="/kinder/34000000/" target="_blank">经济</a>
+                                            <a href="/kinder/12000000/" target="_blank">成功励志</a>
+                                            <a href="/kinder/18000000/" target="_blank">法律</a>
+                                            <a href="/kinder/48210000/" target="_blank">语言文字</a>
+                                        </p>
+                                        <em>&gt;</em>
+                                    </div>
+                                    <div class="menu-item">
+                                        <div class="area-bg">
+                                            <!--分类列表-->
+                                            <ul class="sublist clearfix">
+                                                <li>
+                                                    <h3 class="mcate-item-hd"><a href="/kinder/37000000/" target="_blank">历史</a></h3>
+                                                    <p class="mcate-item-bd">
+                                                        <a href="/kinder/37180000/" target="_blank">中国史</a><span>|</span>
+                                                        <a href="/kinder/37190000/" target="_blank">世界史</a><span>|</span>
+                                                        <a href="/kinder/37110000/" target="_blank">地方史志</a><span>|</span>
+                                                        <a href="/kinder/37140000/" target="_blank">历史知识读物</a><span>|</span>
+                                                        <a href="/kinder/37160000/" target="_blank">史料典籍</a><span>|</span>
+                                                        <a href="/kinder/37170000/" target="_blank">史学理论</a><span>|</span>
+                                                        <a href="/kinder/37130000/" target="_blank">考古文物</a><span>&nbsp;</span>
+                                                        <a href="/kinder/37150000/" target="_blank">民族史志</a>
+                                                    </p>
+                                                </li>
+                                                <li>
+                                                    <h3 class="mcate-item-hd"><a href="/kinder/62000000/" target="_blank">政治</a><a href="/kinder/61000000/" target="_blank">/哲学</a></h3>
+                                                    <p class="mcate-item-bd">
+                                                        <a href="/kinder/62120000/" target="_blank">政治</a><span>|</span>
+                                                        <a href="/kinder/62110000/" target="_blank">军事</a><span>|</span>
+                                                        <a href="/kinder/62121700/" target="_blank">中国政治</a><span>|</span>
+                                                        <a href="/kinder/62121800/" target="_blank">国际政治</a><span>|</span>
+                                                        <a href="/kinder/62121900/" target="_blank">外交/国际关系</a>
+                                                        <a href="/kinder/61110000/" target="_blank">哲学</a><span>|</span>
+                                                        <a href="/kinder/61130000/" target="_blank">宗教</a><span>|</span>
+                                                        <a href="/kinder/61111400/" target="_blank">美学</a><span>&nbsp;</span>
+                                                        <a href="/kinder/61111700/" target="_blank">哲学知识读物</a><span>|</span>
+                                                        <a href="/kinder/61111800/" target="_blank">中国古代哲学</a>
+
+                                                    </p>
+                                                </li>
+                                                <li>
+                                                    <h3 class="mcate-item-hd"><a href="/kinder/14000000/" target="_blank">传记</a></h3>
+                                                    <p class="mcate-item-bd">
+                                                        <a href="/kinder/14140000/" target="_blank">历代帝王</a><span>|</span>
+                                                        <a href="/kinder/14150000/" target="_blank">历史人物</a><span>|</span>
+                                                        <a href="/kinder/14130000/" target="_blank">科学家</a><span>|</span>
+                                                        <a href="/kinder/14330000/" target="_blank">体育明星</a><span>|</span>
+                                                        <a href="/kinder/14190000/" target="_blank">文学家</a><span>|</span>
+                                                        <a href="/kinder/14200000/" target="_blank">学者</a><span>|</span>
+                                                        <a href="/kinder/14210000/" target="_blank">艺术家</a><span>|</span>
+                                                        <a href="/kinder/14230000/" target="_blank">文娱明星</a>
+                                                        <a href="/kinder/14250000/" target="_blank">政治人物</a><span>|</span>
+                                                        <a href="/kinder/14260000/" target="_blank">自传</a><span>|</span>
+                                                        <a href="/kinder/14000000/" target="_blank">更多</a>
+                                                    </p>
+                                                </li>
+                                                <li>
+                                                    <h3 class="mcate-item-hd"><a href="/kinder/52000000/" target="_blank">文化</a></h3>
+                                                    <p class="mcate-item-bd">
+                                                        <a href="/kinder/52130000/" target="_blank">世界文化</a><span>|</span>
+                                                        <a href="/kinder/52170000/" target="_blank">中国文化</a><span>|</span>
+                                                        <a href="/kinder/52160000/" target="_blank">中国民俗</a><span>|</span>
+                                                        <a href="/kinder/52110000/" target="_blank">地域文化</a><span>|</span>
+                                                        <a href="/kinder/52140000/" target="_blank">文化理论</a><span>|</span>
+                                                        <a href="/kinder/52150000/" target="_blank">文化评述</a><span>|</span>
+                                                        <a href="/kinder/52120000/" target="_blank">神秘现象</a>
+                                                    </p>
+                                                </li>
+
+                                                <li>
+                                                    <h3 class="mcate-item-hd"><a href="/kinder/48000000/" target="_blank">社会科学</a></h3>
+                                                    <p class="mcate-item-bd">
+                                                        <a href="/kinder/48190000/" target="_blank">心理学</a><span>|</span>
+                                                        <a href="/kinder/48180000" target="_blank">人类学</a><span>|</span>
+                                                        <a href="/kinder/48110000/" target="_blank">教育</a><span>|</span>
+                                                        <a href="/kinder/48150000/" target="_blank">社会学</a><span>|</span>
+                                                        <a href="/kinder/48200000/" target="_blank">新闻传播出版</a><span>|</span>
+                                                        <a href="/kinder/48210000/" target="_blank">语言文字</a><span>|</span>
+                                                        <a href="/kinder/48000000/" target="_blank">更多</a>
+                                                    </p>
+                                                </li>
+
+                                                <li>
+                                                    <h3 class="mcate-item-hd"><a href="/kinder/23000000/" target="_blank">古籍</a></h3>
+                                                    <p class="mcate-item-bd">
+                                                        <a href="/kinder/23110000/" target="_blank">古籍整理</a><span>|</span>
+                                                        <a href="/kinder/23130000/" target="_blank">经部</a><span>|</span>
+                                                        <a href="/kinder/23140000/" target="_blank">史类</a><span>|</span>
+                                                        <a href="/kinder/23150000/" target="_blank">子部</a><span>|</span>
+                                                        <a href="/kinder/23120000/" target="_blank">集部</a>
+                                                    </p>
+                                                </li>
+
+                                                <li>
+                                                    <h3 class="mcate-item-hd"><a href="/kinder/34000000/" target="_blank">经济</a><a href="/kinder/24000000/" target="_blank">/管理</a></h3>
+                                                    <p class="mcate-item-bd">
+                                                        <a href="/kinder/34180000/" target="_blank">经济理论</a><span>|</span>
+                                                        <a href="/kinder/34260000/" target="_blank">中国经济</a><span>|</span>
+                                                        <a href="/kinder/34270000/" target="_blank">国际经济</a><span>|</span>
+                                                        <a href="/kinder/34280000/" target="_blank">经济通俗读物</a><span>|</span>
+                                                        <a href="/kinder/20110000/" target="_blank">保险</a><span>|</span>
+                                                        <a href="/kinder/24180000/" target="_blank">会计</a><span>|</span>
+                                                        <a href="/kinder/24190000/" target="_blank">金融投资</a><span>&nbsp;</span>
+                                                        <a href="/kinder/24230000/" target="_blank">市场营销</a><span>|</span>
+                                                        <a href="/kinder/24250000/" target="_blank">管理学</a><span>|</span>
+                                                        <a href="/kinder/24140000/" target="_blank">电子商务</a>
+                                                    </p>
+                                                </li>
+
+                                                <li>
+                                                    <h3 class="mcate-item-hd"><a href="/kinder/12000000/" target="_blank">成功励志</a></h3>
+                                                    <p class="mcate-item-bd">
+                                                        <a href="/kinder/12120000/" target="_blank">成功激励</a><span>|</span>
+                                                        <a href="/kinder/12150000/" target="_blank">口才演讲</a><span>|</span>
+                                                        <a href="/kinder/12190000/" target="_blank">名人励志</a><span>|</span>
+                                                        <a href="/kinder/12250000/" target="_blank">人际交往</a><span>|</span>
+                                                        <a href="/kinder/12260000/" target="_blank">人生哲学</a><span>|</span>
+                                                        <a href="/kinder/12280000/" target="_blank">心灵修养</a><span>|</span>
+                                                        <a href="/kinder/12290000/" target="_blank">性格习惯</a><span>&nbsp;</span>
+                                                        <a href="/kinder/12000000/" target="_blank">更多</a>
+                                                    </p>
+                                                </li>
+
+                                                <li>
+                                                    <h3 class="mcate-item-hd"><a href="/kinder/18000000/" target="_blank">法律</a></h3>
+                                                    <p class="mcate-item-bd">
+                                                        <a href="/kinder/18130000/" target="_blank">法的理论</a><span>|</span>
+                                                        <a href="/kinder/18140000/" target="_blank">法律法规</a><span>|</span>
+                                                        <a href="/kinder/18200000/" target="_blank">国际法</a><span>|</span>
+                                                        <a href="/kinder/18210000/" target="_blank">经济法</a><span>|</span>
+                                                        <a href="/kinder/18000000/" target="_blank">更多</a>
+                                                    </p>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="js_toggle">
+                                    <div class="category-info list-tz">
+                                        <h3 class="category-name">
+                                            <a href="/books/children/index.html" class="ml-22" target="_blank">少儿</a>
+                                        </h3>
+                                        <p class="c-category-list">
+                                            <a href="/kinder/47350000/" target="_blank">中国儿童文学</a>
+                                            <a href="/kinder/47330000/" target="_blank">外国儿童文学</a>
+                                            <a href="/kinder/36000000/" target="_blank">科普读物</a>
+                                            <a href="/kinder/47220000/" target="_blank">绘本</a>
+                                            <a href="/kinder/47150000/" target="_blank">动漫/卡通</a>
+                                            <a href="/kinder/47250000/" target="_blank">幼儿启蒙</a>
+                                        </p>
+                                        <em>&gt;</em>
+                                    </div>
+                                    <div class="menu-item">
+                                        <div class="area-bg">
+                                            <!--分类列表-->
+                                            <ul class="sublist clearfix">
+                                                <li>
+                                                    <h3 class="mcate-item-hd"><a href="/kinder/47160000/" target="_blank">儿童文学</a></h3>
+                                                    <p class="mcate-item-bd">
+                                                        <a href="/kinder/47350000/" target="_blank">中国儿童文学</a><span>|</span>
+                                                        <a href="/kinder/47330000/" target="_blank">外国儿童文学</a><span>|</span>
+                                                        <a href="/kinder/47161400/" target="_blank">童话</a><span>|</span>
+                                                        <a href="/kinder/47161600/" target="_blank">小说</a><span>|</span>
+                                                        <a href="/kinder/47161700/" target="_blank">寓言传说</a><span>|</span>
+                                                    </p>
+                                                </li>
+                                                <li>
+                                                    <h3 class="mcate-item-hd"><a href="/kinder/47220000/" target="_blank">绘本</a></h3>
+                                                    <p class="mcate-item-bd">
+                                                        <a href="kinder/47310000/" target="_blank">精装绘本</a><span>|</span>
+                                                        <a href="/kinder/47320000/" target="_blank">平装绘本</a><span>|</span>
+                                                        <a href="/kinder/47150000/" target="_blank">动漫/卡通</a>
+                                                    </p>
+                                                </li>
+                                                <li>
+                                                    <h3 class="mcate-item-hd"><a href="/kinder/47170000/" target="_blank">科普百科</a></h3>
+                                                    <p class="mcate-item-bd">
+                                                        <a href="/kinder/36000000/" target="_blank">科普</a><span>|</span>
+                                                        <a href="/kinder/47170000/" target="_blank">百科</a><span>|</span>
+                                                        <a href="/kinder/47171300/" target="_blank">历史读物</a><span>|</span>
+                                                        <a href="/kinder/47171400/" target="_blank">生活常识</a><span>|</span>
+                                                        <a href="/kinder/47240000/" target="_blank">益智游戏</a><span>|</span>
+                                                        <a href="/kinder/47300000/" target="_blank">传统文化</a>
+
+                                                    </p>
+                                                </li>
+
+                                                <li>
+                                                    <h3 class="mcate-item-hd"><span>其他</span></h3>
+                                                    <p class="mcate-item-bd">
+                                                        <a href="/kinder/47251100/" target="_blank">幼儿启蒙</a><span>|</span>
+                                                        <a href="/kinder/51120000/" target="_blank">少儿英语</a><span>|</span>
+                                                        <a href="/kinder/47180000/" target="_blank">励志/成长</a><span>|</span>
+                                                        <a href="/kinder/47230000/" target="_blank">艺术课堂</a>
+                                                    </p>
+                                                </li>
+
+                                                <li>
+                                                    <h3 class="mcate-item-hd"><span>年龄馆</span></h3>
+                                                    <p class="mcate-item-bd">
+                                                        <a href="/kinder/47110000/" target="_blank">0-2岁</a><span>|</span>
+                                                        <a href="/kinder/47130000/" target="_blank">3-6岁</a><span>|</span>
+                                                        <a href="/kinder/47140000/" target="_blank">7岁及以上</a>
+
+                                                    </p>
+                                                </li>
+
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="js_toggle">
+                                    <div class="category-info list-ny">
+                                        <h3 class="category-name">
+                                            <a href="/books/art/index.html" class="ml-22" target="_blank">艺术</a>
+                                        </h3>
+                                        <p class="c-category-list">
+                                            <a href="/kinder/57120000/" target="_blank">绘画</a>
+                                            <a href="/kinder/57130000/" target="_blank">书法篆刻</a>
+                                            <a href="/kinder/57110000/" target="_blank">艺术理论</a>
+                                            <a href="/kinder/57200000/" target="_blank">摄影</a>
+                                            <a href="/kinder/57210000/" target="_blank">音乐</a>
+                                        </p>
+                                        <em>&gt;</em>
+                                    </div>
+                                    <div class="menu-item">
+                                        <div class="area-bg">
+                                            <!--分类列表-->
+                                            <ul class="sublist clearfix">
+                                                <li>
+                                                    <h3 class="mcate-item-hd"><a href="/kinder/57120000/" target="_blank">绘画</a></h3>
+                                                    <p class="mcate-item-bd">
+                                                        <a href="/kinder/57121300/" target="_blank">绘画理论</a><span>|</span>
+                                                        <a href="/kinder/57121100/" target="_blank">国画</a><span>|</span>
+                                                        <a href="/kinder/57121600/" target="_blank">油画</a><span>|</span>
+                                                        <a href="/kinder/57121500/" target="_blank">素描速写</a><span>|</span>
+                                                        <a href="/kinder/57121400/" target="_blank">水粉水彩</a>
+                                                    </p>
+                                                </li>
+                                                <li>
+                                                    <h3 class="mcate-item-hd"><a href="/kinder/57130000/" target="_blank">书法纂刻</a></h3>
+                                                    <p class="mcate-item-bd">
+                                                        <a href="/kinder/57131100/" target="_blank">碑帖</a><span>|</span>
+                                                        <a href="/kinder/57131200/" target="_blank">技法教程</a><span>|</span>
+                                                        <a href="/kinder/57131300/" target="_blank">书法理论</a><span>|</span>
+                                                        <a href="/kinder/57131400/" target="_blank">硬笔书法</a><span>|</span>
+                                                        <a href="/kinder/57131600/" target="_blank">字帖</a><span>|</span>
+                                                        <a href="/kinder/57131500/" target="_blank">篆刻</a>
+                                                    </p>
+                                                </li>
+                                                <li>
+                                                    <h3 class="mcate-item-hd"><a href="/kinder/57200000/" target="_blank">摄影/设计</a></h3>
+                                                    <p class="mcate-item-bd">
+                                                        <a href="/kinder/57190000/" target="_blank">设计</a><span>|</span>
+                                                        <a href="/kinder/57201100/" target="_blank">摄影后期</a><span>|</span>
+                                                        <a href="/kinder/57201200/" target="_blank">摄影教程</a><span>|</span>
+                                                        <a href="/kinder/57201300/" target="_blank">摄影理论</a><span>|</span>
+                                                        <a href="/kinder/57201400/" target="_blank">摄影器材</a><span>|</span>
+                                                        <a href="/kinder/57201500/" target="_blank">数码摄影</a><span>|</span>
+                                                        <a href="/kinder/57201600/" target="_blank">作品集</a>
+                                                    </p>
+                                                </li>
+
+                                                <li>
+                                                    <h3 class="mcate-item-hd"><a href="/kinder/57220000/" target="_blank">舞台影视艺术</a></h3>
+                                                    <p class="mcate-item-bd">
+                                                        <a href="/kinder/57222100/" target="_blank">影视理论</a><span>|</span>
+                                                        <a href="/kinder/57222200/" target="_blank">影视赏析</a><span>|</span>
+                                                        <a href="/kinder/57222300/" target="_blank">影视制作</a><span>|</span>
+                                                        <a href="/kinder/57230000/" target="_blank">舞台/戏曲艺术</a>
+                                                    </p>
+                                                </li>
+                                                <li>
+                                                    <h3 class="mcate-item-hd"><a href="/kinder/57210000/" target="_blank">音乐</a></h3>
+                                                    <p class="mcate-item-bd">
+                                                        <a href="/kinder/57211200/" target="_blank">钢琴</a><span>|</span>
+                                                        <a href="/kinder/57211300/" target="_blank">吉它</a><span>|</span>
+                                                        <a href="/kinder/57211400/" target="_blank">理论/欣赏</a><span>|</span>
+                                                        <a href="/kinder/57211500/" target="_blank">声乐</a><span>|</span>
+                                                        <a href="/kinder/57211600/" target="_blank">通俗音乐</a><span>|</span>
+                                                        <a href="/kinder/57211700/" target="_blank">外国音乐</a><span>|</span>
+                                                        <a href="/kinder/57211900/" target="_blank">中国民族音乐</a><span>|</span>
+                                                        <a href="/kinder/57212000/" target="_blank">作曲/指挥</a>
+                                                    </p>
+                                                </li>
+                                                <li>
+                                                    <h3 class="mcate-item-hd"><a href="/kinder/49000000/" target="_blank">收藏鉴赏</a></h3>
+                                                    <p class="mcate-item-bd">
+                                                        <a href="/kinder/49110000/" target="_blank">宝石</a><span>|</span>
+                                                        <a href="/kinder/49120000/" target="_blank">雕品</a><span>|</span>
+                                                        <a href="/kinder/49130000/" target="_blank">古代家具</a><span>|</span>
+                                                        <a href="/kinder/49150000/" target="_blank">钱币</a><span>|</span>
+                                                        <a href="/kinder/49160000/" target="_blank">收藏百科</a><span>|</span>
+                                                        <a href="/kinder/49170000/" target="_blank">收藏随笔</a><span>|</span>
+                                                        <a href="/kinder/49180000/" target="_blank">书画</a><span>|</span>
+                                                        <a href="/kinder/49190000/" target="_blank">陶瓷</a><span>|</span>
+                                                        <a href="/kinder/49210000/" target="_blank">玉器</a>
+                                                    </p>
+                                                </li>
+
+                                                <li>
+                                                    <h3 class="mcate-item-hd"><span>更多</span></h3>
+                                                    <p class="mcate-item-bd">
+                                                        <a href="/kinder/57110000/" target="_blank">艺术理论</a><span>|</span>
+                                                        <a href="/kinder/57140000/" target="_blank">雕塑</a><span>|</span>
+                                                        <a href="/kinder/57150000/" target="_blank">工艺美术</a><span>|</span>
+                                                        <a href="/kinder/57160000/" target="_blank">建筑艺术</a><span>|</span>
+                                                        <a href="/kinder/57170000/" target="_blank">民间艺术</a><span>|</span>
+                                                        <a href="/kinder/57180000/" target="_blank">人体艺术</a><span>|</span>
+                                                        <a href="/kinder/57240000/" target="_blank">艺术类考试</a>
+                                                    </p>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="js_toggle">
+                                    <div class="category-info list-xb">
+                                        <h3 class="category-name">
+                                            <a href="/books/life/index.html" class="ml-22" target="_blank">生活</a>
+                                        </h3>
+                                        <p class="c-category-list">
+                                            <a href="/kinder/43000000/" target="_blank">美食</a>
+                                            <a href="/kinder/11000000/" target="_blank">保健/心理健康</a>
+                                            <a href="/kinder/39000000/" target="_blank">旅游</a>
+                                            <a href="/kinder/29000000/" target="_blank">家庭教育</a>
+                                            <a href="/kinder/28000000/" target="_blank">家居休闲</a>
+                                        </p>
+                                        <em>&gt;</em>
+                                    </div>
+                                    <div class="menu-item">
+                                        <div class="area-bg">
+                                            <!--分类列表-->
+                                            <ul class="sublist clearfix">
+                                                <li>
+                                                    <h3 class="mcate-item-hd"><a href="/kinder/43000000/" target="_blank">美食</a></h3>
+                                                    <p class="mcate-item-bd">
+                                                        <a href="/kinder/43200000/" target="_blank">饮食文化</a><span>|</span>
+                                                        <a href="/kinder/43120000/" target="_blank">保健食谱</a><span>|</span>
+                                                        <a href="/kinder/43140000/" target="_blank">家常食谱</a><span>|</span>
+                                                        <a href="/kinder/43140000/" target="_blank">八大菜系</a><span>|</span>
+                                                        <a href="/kinder/43130000/" target="_blank">餐饮指南</a><span>|</span>
+                                                        <a href="/kinder/43150000/" target="_blank">世界美食</a><span>|</span>
+                                                        <a href="/kinder/43000000/" target="_blank">更多</a>
+                                                    </p>
+                                                </li>
+                                                <li>
+                                                    <h3 class="mcate-item-hd"><a href="/kinder/11000000/" target="_blank">保健/心理健康</a></h3>
+                                                    <p class="mcate-item-bd">
+                                                        <a href="/kinder/11130000/" target="_blank">健康百科</a><span>|</span>
+                                                        <a href="/kinder/11140000/" target="_blank">健身</a><span>|</span>
+                                                        <a href="/kinder/11170000/" target="_blank">心理健康</a><span>|</span>
+                                                        <a href="/kinder/11210000/" target="_blank">中老年</a><span>|</span>
+                                                        <a href="/kinder/11220000/" target="_blank">中医保健</a>
+                                                        <a href="/kinder/11120000/" target="_blank">常见病</a><span>|</span>
+                                                        <a href="/kinder/11000000/" target="_blank">更多</a>
+                                                    </p>
+                                                </li>
+                                                <li>
+                                                    <h3 class="mcate-item-hd"><a href="/kinder/39000000/" target="_blank">旅游</a></h3>
+                                                    <p class="mcate-item-bd">
+                                                        <a href="/kinder/39180000/" target="_blank">旅游随笔</a><span>|</span>
+                                                        <a href="/kinder/39190000/" target="_blank">旅游攻略</a><span>|</span>
+                                                        <a href="/kinder/39170000/" target="_blank">旅游画册</a><span>|</span>
+                                                        <a href="/kinder/39110000/" target="_blank">城市自助游</a><span>|</span>
+                                                        <a href="/kinder/39120000/" target="_blank">国内自助游</a><span>|</span>
+                                                        <a href="/kinder/39130000/" target="_blank">国外自助游</a><span>|</span>
+                                                        <a href="/kinder/16000000/" target="_blank">地图地理</a>
+                                                        <a href="/kinder/39000000/" target="_blank">更多</a>
+                                                    </p>
+                                                </li>
+                                                <li>
+                                                    <h3 class="mcate-item-hd"><a href="/kinder/60000000/" target="_blank">孕产育儿</a></h3>
+                                                    <p class="mcate-item-bd">
+                                                        <a href="/kinder/60170000/" target="_blank">孕产百科</a><span>|</span>
+                                                        <a href="/kinder/60200000/" target="_blank">育儿百科</a><span>|</span>
+                                                        <a href="/kinder/60000000/" target="_blank">更多</a>
+                                                    </p>
+                                                </li>
+                                                <li>
+                                                    <h3 class="mcate-item-hd"><span>更多</span></h3>
+                                                    <p class="mcate-item-bd">
+                                                        <a href="/kinder/42000000/" target="_blank">美丽妆扮</a><span>|</span>
+                                                        <a href="/kinder/38000000/" target="_blank">两性关系</a><span>|</span>
+                                                        <a href="/kinder/28000000/" target="_blank">家居休闲</a><span>|</span>
+                                                        <a href="/kinder/20000000/" target="_blank">个人理财</a>
+                                                    </p>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="js_toggle" style="background-image:none;">
+                                    <div class="category-info">
+                                        <h3 class="category-name">
+                                            <a href="/books/culture/index.html" class="ml-22" target="_blank">文教</a>
+                                        </h3>
+                                        <p class="c-category-list" style="border-bottom:none;">
+                                            <a href="/kinder/63000000/">中小学教辅</a>
+                                            <a href="/kinder/51000000/">外语</a>
+                                            <a href="/kinder/31000000/">教材</a>
+                                            <a href="/kinder/56000000/">医学</a>
+                                            <a href="/kinder/27000000/">计算机</a>
+                                            <a href="/kinder/64000000/">自然科学</a>
+                                        </p>
+                                        <em>&gt;</em>
+                                    </div>
+                                    <div class="menu-item">
+                                        <div class="area-bg">
+                                            <!--分类列表-->
+                                            <ul class="sublist clearfix">
+                                                <li>
+                                                    <h3 class="mcate-item-hd"><a href="/kinder/63000000/" target="_blank">中小学教辅</a></h3>
+                                                    <p class="mcate-item-bd">
+                                                        <a href="/kinder/63350000/" target="_blank">语文阅读</a><span>|</span>
+                                                        <a href="/kinder/63330000/" target="_blank">拓展读物</a><span>|</span>
+                                                        <a href="/kinder/63280000/" target="_blank">高考</a><span>|</span>
+                                                        <a href="/kinder/63220000/" target="_blank">初中通用</a><span>|</span>
+                                                        <a href="/kinder/63270000/" target="_blank">高中通用</a><span>|</span>
+                                                        <a href="/kinder/63290000/" target="_blank">工具书</a>
+                                                        <a href="/kinder/63300000/" target="_blank">教师用书</a><span>|</span>
+                                                        <a href="/kinder/63000000/" target="_blank">更多</a>
+                                                    </p>
+                                                </li>
+                                                <li>
+                                                    <h3 class="mcate-item-hd"><a href="/kinder/51000000/" target="_blank">外语</a></h3>
+                                                    <p class="mcate-item-bd">
+                                                        <a href="/kinder/51130000/" target="_blank">英语读物</a><span>|</span>
+                                                        <a href="/kinder/51140000/" target="_blank">职业英语</a><span>|</span>
+                                                        <a href="/kinder/51110000/" target="_blank">生活英语</a><span>|</span>
+                                                        <a href="/kinder/51160000/" target="_blank">英语工具书</a><span>|</span>
+                                                        <a href="/kinder/51180000/" target="_blank">英语考试</a><span>|</span>
+                                                        <a href="/kinder/51150000/" target="_blank">大学英语</a><span>|</span>
+                                                        <a href="/kinder/51120000/" target="_blank">少儿英语</a><span>&nbsp;</span>
+                                                        <a href="/kinder/51000000/" target="_blank">更多</a>
+                                                    </p>
+                                                </li>
+                                                <li>
+                                                    <h3 class="mcate-item-hd"><a href="/kinder/31000000/" target="_blank">教材</a></h3>
+                                                    <p class="mcate-item-bd">
+                                                        <a href="/kinder/31110000/" target="_blank">研究生/本科/专科教材 </a><span>|</span>
+                                                        <a href="/kinder/31120000/" target="_blank">职业技术培训</a><span>|</span>
+                                                        <a href="/kinder/31130000/" target="_blank">中小学教材</a><span>|</span>
+                                                    </p>
+                                                </li>
+                                                <li>
+                                                    <h3 class="mcate-item-hd"><a href="/kinder/27000000/" target="_blank">计算机</a></h3>
+                                                    <p class="mcate-item-bd">
+                                                        <a href="/kinder/27120000/" target="_blank">操作系统/系统开发</a><span>|</span>
+                                                        <a href="/kinder/27250000/" target="_blank">数据库</a><span>|</span>
+                                                        <a href="/kinder/27300000/" target="_blank">信息安全</a>
+                                                        <a href="/kinder/27130000/" target="_blank">程序设计</a><span>|</span>
+                                                        <a href="/kinder/27150000/" target="_blank">电脑杂志</a><span>|</span>
+                                                        <a href="/kinder/27170000/" target="_blank">计算机教材</a><span>|</span>
+                                                        <a href="/kinder/27180000/" target="_blank">计算机考试认证</a>
+                                                        <a href="/kinder/27190000/" target="_blank">计算机理论</a><span>|</span>
+                                                        <a href="/kinder/27200000/" target="_blank">计算机体系结构</a><span>|</span>
+                                                        <a href="/kinder/27210000/" target="_blank">家庭与办公室用书</a><span>|</span>
+                                                        <a href="/kinder/27220000/" target="_blank">企业软件开发与实施</a><span>|</span>
+                                                        <a href="/kinder/27230000/" target="_blank">人工智能</a>
+                                                        <a href="/kinder/27240000/" target="_blank">软件工程/开发项目管理</a><span>|</span>
+
+                                                    </p>
+                                                </li>
+                                                <li>
+                                                    <h3 class="mcate-item-hd"><span>更多</span></h3>
+                                                    <p class="mcate-item-bd">
+                                                        <a href="/kinder/35000000/" target="_blank">考试</a><span>|</span>
+                                                        <a href="/kinder/29000000/" target="_blank">家庭教育</a><span>|</span>
+                                                        <a href="/kinder/64000000/" target="_blank">自然科学</a><span>|</span>
+                                                        <a href="/kinder/36000000/" target="_blank">科普读物</a><span>|</span>
+                                                        <a href="/kinder/56000000/" target="_blank">医学</a><span>|</span>
+                                                        <a href="/kinder/45000000/" target="_blank">农林业</a><span>|</span>
+                                                        <a href="/kinder/22000000/" target="_blank">工业技术</a><span>|</span>
+                                                        <a href="/kinder/30000000/" target="_blank">建筑</a>
+                                                    </p>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                            <div class="all_category"><a href="/books/kind/sort.aspx" target="_blank">全部商品分类&gt;&gt;</a></div>
+                        </div>
+                        <div class="guanggao">
+                             <a href="/Subject/170831rec.aspx" target="_blank" title="中国图书网"><img src="http://image31.bookschina.com/pro-images/sbanner/sbanner_206.jpg" alt="中国图书网"></a>
+                        </div>
+                    </div>
+                </div>
+                <ul class="specil_category clearfix">
+                    <li class="cur"><a href="/" target="_parent">首页</a></li>
+                    <li><a href="http://tuan.bookschina.com/" target="_blank">淘书团</a></li>
+                    <li><a href="/24hour/ChangXiao.aspx" target="_blank">畅销榜</a></li>
+                    <li><a href="/books/kind/newInput.aspx" target="_blank">新上架</a></li>
+                    <li><a href="/Books/FreeShipList.aspx" target="_blank">9块9包邮</a></li>
+                    <li><a href="/Books/allbook/publisher.aspx" target="_blank">出版社浏览</a></li>
+                    <li><a href="/wenwan/default.aspx" target="_blank">闲情雅趣</a></li>
+                    <li><a href="http://pifa.bookschina.com/" target="_blank">批发</a></li>
+                </ul>
+            </div>
+
+        </div>
+    </div>
+</div>
+<script type="text/javascript" src="/Include/dataval/logintop.js"></script>
+<script type="text/javascript"> $(document).ready(function () { javascript: isLoging(); }) </script>
+<script type="text/javascript">
+    bookNav("#webCategory");
+    function bookNav(a) {
+        $(a).delegate(".js_toggle", "mouseenter", function () {
+            var t = $(this),
+            e = t.find(".menu-item"),
+            o = (t.index(), e.find(".menu-item"), $(a).offset().top),
+            i = t.offset().top - o,
+            n = (e.outerHeight() - t.outerHeight()) / 2,
+            s = $(a).height() - (t.offset().top - o + t.outerHeight());
+            e.outerHeight() / 2 > s ? e.css("bottom", -s) : e.css("top", n > i ? -i - 2 : -n - 2),
+            e.show(),
+            t.addClass("hover")
+        }).delegate(".js_toggle", "mouseleave",
+   function () {
+       $(this).removeClass("hover").find(".menu-item").hide();
+   })
+    }
+    if ($(".category-content .category").is(":hidden")) {
+        $("#nav .category-content .all-goods").hover(function () {
+            $(".category-content .category").show();
+        }, function () {
+            $(".category-content .category").hide();
+        })
+    }
+
+    $(".specil_category li").each(function (index, obj) {
+        if (window.location.pathname == '/')
+            return;
+
+        $(obj).removeClass('cur');
+        if ($(obj).find('a').attr('href').toLocaleLowerCase().indexOf(window.location.pathname.toLocaleLowerCase()) != -1)
+            $(obj).addClass('cur');
+    });
+</script>
+
+        <div class="content">
+            <div class="w1200">
+                <!--banner-->
+                
+<div class="kindBanner">
+   <a href="/subject/170927ho.aspx" title="每满69减30" target="_blank"><img src="http://image31.bookschina.com/pro-images/170927ho/1200100.jpg" alt="每满69减30" /></a>
+</div>
+
+                <!--面包屑-->
+                <div class="crumbsBar">
+                    <div class="crumbsNav clearfix">
+                        <div class="crumsItem">
+                            <a href="/index.html">中国图书网</a>
+                        </div>
+                        <i class="">&gt;</i>
+                        
+                        
+                        <div class="crumsItem">
+                            <a href="/books/kind/sort.asp">全部分类</a>
+                        </div>
+                        
+                        <i class="">&gt;</i>
+                        <div class="crumsItem">
+                            <a href="/kinder/53000000_0_0_00_0_0_0_0_0/">文学</a>
+                        </div>
+                        
+                        <i class="">&gt;</i>
+                        <div class="crumsDrop">
+                            <div class="dropMenu">
+                                <a href="javascript:void(0);">民间文学</a>
+                                <span class="icon"></span>
+                            </div>
+                            <div class="dropCon">
+                                <div class="dropList">
+                                    <ul>
+                                        <li><a href="/kinder/53110000_0_0_11_0_1_1_0_0/" title="纪实文学">纪实文学 </a></li>
+                                        <li><a href="/kinder/53130000_0_0_11_0_1_1_0_0/" title="外国诗歌">外国诗歌 </a></li>
+                                        <li><a href="/kinder/53140000_0_0_11_0_1_1_0_0/" title="外国随笔">外国随笔 </a></li>
+                                        <li><a href="/kinder/53150000_0_0_11_0_1_1_0_0/" title="文集">文集 </a></li>
+                                        <li><a href="/kinder/53160000_0_0_11_0_1_1_0_0/" title="文学理论">文学理论 </a></li>
+                                        <li><a href="/kinder/53170000_0_0_11_0_1_1_0_0/" title="戏剧">戏剧 </a></li>
+                                        <li><a href="/kinder/53180000_0_0_11_0_1_1_0_0/" title="中国古代随笔">中国古代随笔 </a></li>
+                                        <li><a href="/kinder/53190000_0_0_11_0_1_1_0_0/" title="中国古诗词">中国古诗词 </a></li>
+                                        <li><a href="/kinder/53200000_0_0_11_0_1_1_0_0/" title="中国现当代诗歌">中国现当代诗歌 </a></li>
+                                        <li><a href="/kinder/53210000_0_0_11_0_1_1_0_0/" title="中国现当代随笔">中国现当代随笔 </a></li>
+                                        <li><a href="/kinder/53220000_0_0_11_0_1_1_0_0/" title="文学类考试">文学类考试 </a></li>
+                                        
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        
+                    </div>
+                </div>
+                <!--筛选项-->
+                <div class="selectorBar">
+                    <div class="selectorCon">
+                        <!--分类筛选-->
+                        
+                        <!--价格筛选-->
+                        
+                        <div class="slectList priceItem clearfix">
+                            <div class="selectTit">
+                                <span>售价：</span>
+                            </div>
+                            <div class="slectCon">
+                                <ul>
+                                    <li><a href="/kinder/53120000_1_0_11_0_1_1_0_0/">0-5元(9) </a></li>
+                                    <li><a href="/kinder/53120000_2_0_11_0_1_1_0_0/">5-10元(115) </a></li>
+                                    <li><a href="/kinder/53120000_3_0_11_0_1_1_0_0/">10-20元(160) </a></li>
+                                    <li><a href="/kinder/53120000_4_0_11_0_1_1_0_0/">20-50元(288) </a></li>
+                                    <li><a href="/kinder/53120000_5_0_11_0_1_1_0_0/">50-100元(49) </a></li>
+                                    <li><a href="/kinder/53120000_6_0_11_0_1_1_0_0/">100元以上(14) </a></li>
+                                    
+                                </ul>
+                                <div class="priceSet">
+                                    <div class="fl">
+                                        <i>￥</i><input id="txtStartPrice" type="text" class="input-txt" value="" autocomplete="off" placeholder="" />
+                                    </div>
+                                    <em>---</em>
+                                    <div class="fl">
+                                        <i>￥</i><input id="txtEndPrice" type="text" class="input-txt" value="" autocomplete="off" placeholder="" />
+                                    </div>
+                                    <div class="confirmButton">
+                                        <input id="hidUrl" type="hidden" value="/kinder/53120000_0_0_11_0_1_1_{0}_{1}/" />
+                                        <a id="btnPriceSearch" onclick="PriceSearch()" href="javascript:void(0);">确定</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <!--折扣筛选-->
+                        
+                        <div class="slectList discountItem clearfix">
+                            <div class="selectTit">
+                                <span>折扣：</span>
+                            </div>
+                            <div class="slectCon">
+                                <ul>
+                                    <li><a href="/kinder/53120000_0_1_11_0_1_1_0_0/">3折以下(16) </a></li>
+                                    <li><a href="/kinder/53120000_0_2_11_0_1_1_0_0/">3-4折(51) </a></li>
+                                    <li><a href="/kinder/53120000_0_3_11_0_1_1_0_0/">4-5折(212) </a></li>
+                                    <li><a href="/kinder/53120000_0_4_11_0_1_1_0_0/">5-7折(137) </a></li>
+                                    <li><a href="/kinder/53120000_0_5_11_0_1_1_0_0/">7折以上(219) </a></li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                        
+                    </div>
+                </div>
+                <!--排序项目-->
+                <div class="sortBar">
+                    <div class="sortInner clearfix">
+                        <div class="sortNav">
+                            <ul>
+                                <li class="on saleNum"><a href="/kinder/53120000_0_0_10_0_1_1_0_0/"><i>销量<span class=" down"></span></i></a></li>
+                                <li class=" "><a href="/kinder/53120000_0_0_31_0_1_1_0_0/"><i>出版时间<span class="icon "></span></i></a></li>
+                                <li class=" "><a href="/kinder/53120000_0_0_40_0_1_1_0_0/"><i>定价<span class="icon "></span></i></a></li>
+                                <li class=" "><a href="/kinder/53120000_0_0_50_0_1_1_0_0/"><i>折扣<span class="icon "></span></i></a></li>
+                                <li class=" "><a href="/kinder/53120000_0_0_60_0_1_1_0_0/"><i>售价<span class="icon "></span></i></a></li>
+                                <li class=" "><a href="/kinder/53120000_0_0_71_0_1_1_0_0/"><i>上架时间<span class="icon "></span></i></a></li>
+                                
+                            </ul>
+                        </div>
+                        <div class="otherSort">
+                            <ul>
+                                <li class="">
+                                    <a href="/kinder/53120000_0_0_11_1_1_1_0_0/">
+                                        <span class="icon"></span>
+                                        <i style="color: red">只看5折以下图书</i>
+                                    </a>
+                                </li>
+                                <li class="" style="display: none">
+                                    <a href="/kinder/53120000_0_0_11_0_1_1_0_0/">
+                                        <span class="icon"></span>
+                                        促销
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+
+                        <div class="sortRight">
+                            
+                            <div class="styleSwitch">
+                                <ul>
+                                    <li class="big "><a href="/kinder/53120000_0_0_11_0_0_1_0_0/"><span class="icon"></span><i>大图</i></a></li>
+                                    <li class="list on"><a href="/kinder/53120000_0_0_11_0_1_1_0_0/"><span class="icon"></span><i>列表</i></a></li>
+                                </ul>
+                            </div>
+                            
+                            <div class="topPage">
+                                    <span class="fp-text"><b>13</b><em>/</em><i>13</i></span>
+                                    <a class="prevPage disabled" href="/kinder/53120000_0_0_11_0_1_12_0_0/">&lt;</a>
+                                    <a class="nextPage" href="javascript:void(0);">&gt;</a>
+                                </div>
+                            
+                        </div>
+
+                    </div>
+                </div>
+
+                <!--分类列表-->
+                <div class="container" id="container">
+                    <div class="listMain clearfix">
+                        <div class="listLeft">
+                            
+                            <div class="bookList">
+                                <ul>
+                                    <li>
+                                                <div class="cover">
+                                                    <a href="/7301134.htm" target="_blank" title="江西 抚州 南城卷-中国民间故事丛书">
+                                                        <img src="http://image31.bookschina.com/images/feng200.jpg" alt="江西 抚州 南城卷-中国民间故事丛书" data-original="http://image12.bookschina.com/2016/20161106/s7301134.jpg" class="lazyImg" /></a>
+                                                </div>
+                                                <div class="infor">
+                                                    <h2 class="name"><a href="/7301134.htm" target="_blank" title="江西 抚州 南城卷-中国民间故事丛书">江西 抚州 南城卷-中国民间故事丛书</a></h2>
+                                                    <div class="otherInfor"><a href="/Books/allbook/allauthor.asp?stype=author&sbook=罗杨" target="_blank" class="author">罗杨</a><i>&nbsp;&nbsp;/&nbsp;&nbsp;</i><span class="pulishTiem" title="出版时间">2016-08-01&nbsp;&nbsp;/&nbsp;&nbsp;</span><a href="/publish/751304378/" target="_blank" class="publisher">知识产权出版社</a></div>
+                                                    <div class="priceWrap"><span class="sellPrice">&yen;29.6</span><span class="discount">(7.6折)</span><span class="priceTit">定价:</span><del class="">&yen;39.0</del></div>
+
+                                                    
+
+                                                    <p class="recoLagu">这里集结着散落于民间的故事瑰宝，它们是：
+☆对我国民间故事*真实、科学、全面的收集和整理
+☆对日益流失的民间文化遗产的国家*抢救
+☆不可复制的口述活历史
+☆包罗万象的故事版地方百科
+这些原汁原味、通俗易懂，充满民族、地域特色...</p>
+                                                    <div class="oparateButton">
+                                                        <a href="/shopcar/shoppingcart_add.aspx?book_id=7301134" target="_blank" class="buyButton">加入购物车</a>
+                                                        <a href="javascript:viod(0);" onclick="AddFavoriteBook('7301134')" class="collectBtn">收藏</a>
+                                                    </div>
+                                                </div>
+                                            </li>
+                                    <li>
+                                                <div class="cover">
+                                                    <a href="/7301133.htm" target="_blank" title="江西 抚州 临川卷(上卷)-中国民间故事丛书">
+                                                        <img src="http://image31.bookschina.com/images/feng200.jpg" alt="江西 抚州 临川卷(上卷)-中国民间故事丛书" data-original="http://image12.bookschina.com/2016/20161106/s7301133.jpg" class="lazyImg" /></a>
+                                                </div>
+                                                <div class="infor">
+                                                    <h2 class="name"><a href="/7301133.htm" target="_blank" title="江西 抚州 临川卷(上卷)-中国民间故事丛书">江西 抚州 临川卷(上卷)-中国民间故事丛书</a></h2>
+                                                    <div class="otherInfor"><a href="/Books/allbook/allauthor.asp?stype=author&sbook=罗杨" target="_blank" class="author">罗杨</a><i>&nbsp;&nbsp;/&nbsp;&nbsp;</i><span class="pulishTiem" title="出版时间">2016-08-01&nbsp;&nbsp;/&nbsp;&nbsp;</span><a href="/publish/751304377/" target="_blank" class="publisher">知识产权出版社</a></div>
+                                                    <div class="priceWrap"><span class="sellPrice">&yen;63.2</span><span class="discount">(7.1折)</span><span class="priceTit">定价:</span><del class="">&yen;89.0</del></div>
+
+                                                    
+
+                                                    <p class="recoLagu">这里集结着散落于民间的故事瑰宝，它们是：☆对我国民间故事*真实、科学、全面的收集和整理☆对日益流失的民间文化遗产的国家*抢救☆不可复制的口述活历史☆包罗万象的故事版地方百科这些原汁原味、通俗易懂...</p>
+                                                    <div class="oparateButton">
+                                                        <a href="/shopcar/shoppingcart_add.aspx?book_id=7301133" target="_blank" class="buyButton">加入购物车</a>
+                                                        <a href="javascript:viod(0);" onclick="AddFavoriteBook('7301133')" class="collectBtn">收藏</a>
+                                                    </div>
+                                                </div>
+                                            </li>
+                                    <li>
+                                                <div class="cover">
+                                                    <a href="/7301132.htm" target="_blank" title="江西 抚州 东乡卷-中国民间故事丛书">
+                                                        <img src="http://image31.bookschina.com/images/feng200.jpg" alt="江西 抚州 东乡卷-中国民间故事丛书" data-original="http://image12.bookschina.com/2016/20161106/s7301132.jpg" class="lazyImg" /></a>
+                                                </div>
+                                                <div class="infor">
+                                                    <h2 class="name"><a href="/7301132.htm" target="_blank" title="江西 抚州 东乡卷-中国民间故事丛书">江西 抚州 东乡卷-中国民间故事丛书</a></h2>
+                                                    <div class="otherInfor"><a href="/Books/allbook/allauthor.asp?stype=author&sbook=罗杨" target="_blank" class="author">罗杨</a><i>&nbsp;&nbsp;/&nbsp;&nbsp;</i><span class="pulishTiem" title="出版时间">2016-08-01&nbsp;&nbsp;/&nbsp;&nbsp;</span><a href="/publish/751304372/" target="_blank" class="publisher">知识产权出版社</a></div>
+                                                    <div class="priceWrap"><span class="sellPrice">&yen;29.6</span><span class="discount">(7.6折)</span><span class="priceTit">定价:</span><del class="">&yen;39.0</del></div>
+
+                                                    
+
+                                                    <p class="recoLagu">这里集结着散落于民间的故事瑰宝，它们是：
+☆对我国民间故事*真实、科学、全面的收集和整理
+☆对日益流失的民间文化遗产的国家*抢救
+☆不可复制的口述活历史
+☆包罗万象的故事版地方百科
+这些原汁原味、通俗易懂，充满民族、地域特色...</p>
+                                                    <div class="oparateButton">
+                                                        <a href="/shopcar/shoppingcart_add.aspx?book_id=7301132" target="_blank" class="buyButton">加入购物车</a>
+                                                        <a href="javascript:viod(0);" onclick="AddFavoriteBook('7301132')" class="collectBtn">收藏</a>
+                                                    </div>
+                                                </div>
+                                            </li>
+                                    <li>
+                                                <div class="cover">
+                                                    <a href="/7301013.htm" target="_blank" title="江西 抚州 南丰卷-中国民间故事丛书">
+                                                        <img src="http://image31.bookschina.com/images/feng200.jpg" alt="江西 抚州 南丰卷-中国民间故事丛书" data-original="http://image12.bookschina.com/2016/20161106/s7301013.jpg" class="lazyImg" /></a>
+                                                </div>
+                                                <div class="infor">
+                                                    <h2 class="name"><a href="/7301013.htm" target="_blank" title="江西 抚州 南丰卷-中国民间故事丛书">江西 抚州 南丰卷-中国民间故事丛书</a></h2>
+                                                    <div class="otherInfor"><a href="/Books/allbook/allauthor.asp?stype=author&sbook=罗杨" target="_blank" class="author">罗杨</a><i>&nbsp;&nbsp;/&nbsp;&nbsp;</i><span class="pulishTiem" title="出版时间">2016-08-01&nbsp;&nbsp;/&nbsp;&nbsp;</span><a href="/publish/751304379/" target="_blank" class="publisher">知识产权出版社</a></div>
+                                                    <div class="priceWrap"><span class="sellPrice">&yen;29.6</span><span class="discount">(7.6折)</span><span class="priceTit">定价:</span><del class="">&yen;39.0</del></div>
+
+                                                    
+
+                                                    <p class="recoLagu">这里集结着散落于民间的故事瑰宝，它们是：
+☆对我国民间故事*真实、科学、全面的收集和整理
+☆对日益流失的民间文化遗产的国家*抢救
+☆不可复制的口述活历史
+☆包罗万象的故事版地方百科
+这些原汁原味、通俗易懂，充满民族、地域特色...</p>
+                                                    <div class="oparateButton">
+                                                        <a href="/shopcar/shoppingcart_add.aspx?book_id=7301013" target="_blank" class="buyButton">加入购物车</a>
+                                                        <a href="javascript:viod(0);" onclick="AddFavoriteBook('7301013')" class="collectBtn">收藏</a>
+                                                    </div>
+                                                </div>
+                                            </li>
+                                    <li>
+                                                <div class="cover">
+                                                    <a href="/7301012.htm" target="_blank" title="江西 抚州 黎川卷-中国民间故事丛书">
+                                                        <img src="http://image31.bookschina.com/images/feng200.jpg" alt="江西 抚州 黎川卷-中国民间故事丛书" data-original="http://image12.bookschina.com/2016/20161106/s7301012.jpg" class="lazyImg" /></a>
+                                                </div>
+                                                <div class="infor">
+                                                    <h2 class="name"><a href="/7301012.htm" target="_blank" title="江西 抚州 黎川卷-中国民间故事丛书">江西 抚州 黎川卷-中国民间故事丛书</a></h2>
+                                                    <div class="otherInfor"><a href="/Books/allbook/allauthor.asp?stype=author&sbook=罗杨" target="_blank" class="author">罗杨</a><i>&nbsp;&nbsp;/&nbsp;&nbsp;</i><span class="pulishTiem" title="出版时间">2016-08-01&nbsp;&nbsp;/&nbsp;&nbsp;</span><a href="/publish/751304376/" target="_blank" class="publisher">知识产权出版社</a></div>
+                                                    <div class="priceWrap"><span class="sellPrice">&yen;29.6</span><span class="discount">(7.6折)</span><span class="priceTit">定价:</span><del class="">&yen;39.0</del></div>
+
+                                                    
+
+                                                    <p class="recoLagu">这里集结着散落于民间的故事瑰宝，它们是：
+☆对我国民间故事*真实、科学、全面的收集和整理
+☆对日益流失的民间文化遗产的国家*抢救
+☆不可复制的口述活历史
+☆包罗万象的故事版地方百科
+这些原汁原味、通俗易懂，充满民族、地域特色...</p>
+                                                    <div class="oparateButton">
+                                                        <a href="/shopcar/shoppingcart_add.aspx?book_id=7301012" target="_blank" class="buyButton">加入购物车</a>
+                                                        <a href="javascript:viod(0);" onclick="AddFavoriteBook('7301012')" class="collectBtn">收藏</a>
+                                                    </div>
+                                                </div>
+                                            </li>
+                                    <li>
+                                                <div class="cover">
+                                                    <a href="/7340144.htm" target="_blank" title="一片红叶">
+                                                        <img src="http://image31.bookschina.com/images/feng200.jpg" alt="一片红叶" data-original="http://image12.bookschina.com/2016/20161223/s7340144.jpg" class="lazyImg" /></a>
+                                                </div>
+                                                <div class="infor">
+                                                    <h2 class="name"><a href="/7340144.htm" target="_blank" title="一片红叶">一片红叶</a></h2>
+                                                    <div class="otherInfor"><a href="/Books/allbook/allauthor.asp?stype=author&sbook=(德)尤蒂特·罗斯柯文/图" target="_blank" class="author">(德)尤蒂特·罗斯柯文/图</a><i>&nbsp;&nbsp;/&nbsp;&nbsp;</i><span class="pulishTiem" title="出版时间">2016-08-01&nbsp;&nbsp;/&nbsp;&nbsp;</span><a href="/publish/754447052/" target="_blank" class="publisher">上海教育出版社</a></div>
+                                                    <div class="priceWrap"><span class="sellPrice">&yen;18.8</span><span class="discount">(6.7折)</span><span class="priceTit">定价:</span><del class="">&yen;28.0</del></div>
+
+                                                    
+
+                                                    <p class="recoLagu">本书讲述了在一个阴沉的秋日里想要找点乐子, 可是又不愿意总是去逛动物园, 该怎么办呢? 一个男孩用他的想象力, 将平淡无奇的城市变成了一个探险乐园。插画展现了想象和现实之间的碰撞开。该书适合学前阶段亲子共读和幼儿园教学使用...</p>
+                                                    <div class="oparateButton">
+                                                        <a href="/shopcar/shoppingcart_add.aspx?book_id=7340144" target="_blank" class="buyButton">加入购物车</a>
+                                                        <a href="javascript:viod(0);" onclick="AddFavoriteBook('7340144')" class="collectBtn">收藏</a>
+                                                    </div>
+                                                </div>
+                                            </li>
+                                    <li>
+                                                <div class="cover">
+                                                    <a href="/7312854.htm" target="_blank" title="滕州卷-山东 枣庄">
+                                                        <img src="http://image31.bookschina.com/images/feng200.jpg" alt="滕州卷-山东 枣庄" data-original="http://image12.bookschina.com/2016/20161103/s7312854.jpg" class="lazyImg" /></a>
+                                                </div>
+                                                <div class="infor">
+                                                    <h2 class="name"><a href="/7312854.htm" target="_blank" title="滕州卷-山东 枣庄">滕州卷-山东 枣庄</a></h2>
+                                                    <div class="otherInfor"><a href="/Books/allbook/allauthor.asp?stype=author&sbook=徐高潮" target="_blank" class="author">徐高潮</a><i>&nbsp;&nbsp;/&nbsp;&nbsp;</i><span class="pulishTiem" title="出版时间">2016-08-01&nbsp;&nbsp;/&nbsp;&nbsp;</span><a href="/publish/751304382/" target="_blank" class="publisher">知识产权出版社</a></div>
+                                                    <div class="priceWrap"><span class="sellPrice">&yen;60.0</span><span class="discount">(7.6折)</span><span class="priceTit">定价:</span><del class="">&yen;79.0</del></div>
+
+                                                    
+
+                                                    <p class="recoLagu">这里集结着散落于民间的故事瑰宝，它们是：
+☆对我国民间故事真实、科学、全面的收集和整理
+☆对日益流失的民间文化遗产的国*级抢救
+☆不可复制的口述活历史
+☆包罗万象的故事版地方百科
+这些原汁原味、通俗易懂，充满民族、地域特色的...</p>
+                                                    <div class="oparateButton">
+                                                        <a href="/shopcar/shoppingcart_add.aspx?book_id=7312854" target="_blank" class="buyButton">加入购物车</a>
+                                                        <a href="javascript:viod(0);" onclick="AddFavoriteBook('7312854')" class="collectBtn">收藏</a>
+                                                    </div>
+                                                </div>
+                                            </li>
+                                    <li>
+                                                <div class="cover">
+                                                    <a href="/7312852.htm" target="_blank" title="市中卷-山东 枣庄">
+                                                        <img src="http://image31.bookschina.com/images/feng200.jpg" alt="市中卷-山东 枣庄" data-original="http://image12.bookschina.com/2016/20161103/s7312852.jpg" class="lazyImg" /></a>
+                                                </div>
+                                                <div class="infor">
+                                                    <h2 class="name"><a href="/7312852.htm" target="_blank" title="市中卷-山东 枣庄">市中卷-山东 枣庄</a></h2>
+                                                    <div class="otherInfor"><a href="/Books/allbook/allauthor.asp?stype=author&sbook=邵泽选" target="_blank" class="author">邵泽选</a><i>&nbsp;&nbsp;/&nbsp;&nbsp;</i><span class="pulishTiem" title="出版时间">2016-08-01&nbsp;&nbsp;/&nbsp;&nbsp;</span><a href="/publish/751304386/" target="_blank" class="publisher">知识产权出版社</a></div>
+                                                    <div class="priceWrap"><span class="sellPrice">&yen;52.4</span><span class="discount">(7.6折)</span><span class="priceTit">定价:</span><del class="">&yen;69.0</del></div>
+
+                                                    
+
+                                                    <p class="recoLagu">这里集结着散落于民间的故事瑰宝，它们是：
+☆对我国民间故事真实、科学、全面的收集和整理
+☆对日益流失的民间文化遗产的国*级抢救
+☆不可复制的口述活历史
+☆包罗万象的故事版地方百科
+这些原汁原味、通俗易懂，充满民族、地域特色的...</p>
+                                                    <div class="oparateButton">
+                                                        <a href="/shopcar/shoppingcart_add.aspx?book_id=7312852" target="_blank" class="buyButton">加入购物车</a>
+                                                        <a href="javascript:viod(0);" onclick="AddFavoriteBook('7312852')" class="collectBtn">收藏</a>
+                                                    </div>
+                                                </div>
+                                            </li>
+                                    <li>
+                                                <div class="cover">
+                                                    <a href="/7312761.htm" target="_blank" title="峄城卷-山东 枣庄">
+                                                        <img src="http://image31.bookschina.com/images/feng200.jpg" alt="峄城卷-山东 枣庄" data-original="http://image12.bookschina.com/2016/20161103/s7312761.jpg" class="lazyImg" /></a>
+                                                </div>
+                                                <div class="infor">
+                                                    <h2 class="name"><a href="/7312761.htm" target="_blank" title="峄城卷-山东 枣庄">峄城卷-山东 枣庄</a></h2>
+                                                    <div class="otherInfor"><a href="/Books/allbook/allauthor.asp?stype=author&sbook=贺炜" target="_blank" class="author">贺炜</a><i>&nbsp;&nbsp;/&nbsp;&nbsp;</i><span class="pulishTiem" title="出版时间">2016-08-01&nbsp;&nbsp;/&nbsp;&nbsp;</span><a href="/publish/751304384/" target="_blank" class="publisher">知识产权出版社</a></div>
+                                                    <div class="priceWrap"><span class="sellPrice">&yen;44.0</span><span class="discount">(7.1折)</span><span class="priceTit">定价:</span><del class="">&yen;62.0</del></div>
+
+                                                    
+
+                                                    <p class="recoLagu">这里集结着散落于民间的故事瑰宝，它们是：
+☆对我国民间故事真实、科学、全面的收集和整理
+☆对日益流失的民间文化遗产的国*级抢救
+☆不可复制的口述活历史
+☆包罗万象的故事版地方百科
+这些原汁原味、通俗易懂，充满民族、地域特色的...</p>
+                                                    <div class="oparateButton">
+                                                        <a href="/shopcar/shoppingcart_add.aspx?book_id=7312761" target="_blank" class="buyButton">加入购物车</a>
+                                                        <a href="javascript:viod(0);" onclick="AddFavoriteBook('7312761')" class="collectBtn">收藏</a>
+                                                    </div>
+                                                </div>
+                                            </li>
+                                    <li>
+                                                <div class="cover">
+                                                    <a href="/7312758.htm" target="_blank" title="台儿庄卷-山东 枣庄">
+                                                        <img src="http://image31.bookschina.com/images/feng200.jpg" alt="台儿庄卷-山东 枣庄" data-original="http://image12.bookschina.com/2016/20161103/s7312758.jpg" class="lazyImg" /></a>
+                                                </div>
+                                                <div class="infor">
+                                                    <h2 class="name"><a href="/7312758.htm" target="_blank" title="台儿庄卷-山东 枣庄">台儿庄卷-山东 枣庄</a></h2>
+                                                    <div class="otherInfor"><a href="/Books/allbook/allauthor.asp?stype=author&sbook=徐安伟" target="_blank" class="author">徐安伟</a><i>&nbsp;&nbsp;/&nbsp;&nbsp;</i><span class="pulishTiem" title="出版时间">2016-08-01&nbsp;&nbsp;/&nbsp;&nbsp;</span><a href="/publish/751304381/" target="_blank" class="publisher">知识产权出版社</a></div>
+                                                    <div class="priceWrap"><span class="sellPrice">&yen;52.4</span><span class="discount">(7.6折)</span><span class="priceTit">定价:</span><del class="">&yen;69.0</del></div>
+
+                                                    
+
+                                                    <p class="recoLagu">这里集结着散落于民间的故事瑰宝，它们是：
+☆对我国民间故事真实、科学、全面的收集和整理
+☆对日益流失的民间文化遗产的国*级抢救
+☆不可复制的口述活历史
+☆包罗万象的故事版地方百科
+这些原汁原味、通俗易懂，充满民族、地域特色的...</p>
+                                                    <div class="oparateButton">
+                                                        <a href="/shopcar/shoppingcart_add.aspx?book_id=7312758" target="_blank" class="buyButton">加入购物车</a>
+                                                        <a href="javascript:viod(0);" onclick="AddFavoriteBook('7312758')" class="collectBtn">收藏</a>
+                                                    </div>
+                                                </div>
+                                            </li>
+                                    <li>
+                                                <div class="cover">
+                                                    <a href="/6956745.htm" target="_blank" title="微经典——中华经典寓言">
+                                                        <img src="http://image31.bookschina.com/images/feng200.jpg" alt="微经典——中华经典寓言" data-original="http://image12.bookschina.com/2015/20150409/s6956745.jpg" class="lazyImg" /></a>
+                                                </div>
+                                                <div class="infor">
+                                                    <h2 class="name"><a href="/6956745.htm" target="_blank" title="微经典——中华经典寓言">微经典——中华经典寓言</a></h2>
+                                                    <div class="otherInfor"><a href="/Books/allbook/allauthor.asp?stype=author&sbook=江苏美术出版社" target="_blank" class="author">江苏美术出版社</a><i>&nbsp;&nbsp;/&nbsp;&nbsp;</i><span class="pulishTiem" title="出版时间">2015-05-01&nbsp;&nbsp;/&nbsp;&nbsp;</span><a href="/publish/753448817/" target="_blank" class="publisher">江苏美术出版社</a></div>
+                                                    <div class="priceWrap"><span class="sellPrice">&yen;6.3</span><span class="discount">(4.9折)</span><span class="priceTit">定价:</span><del class="">&yen;12.8</del></div>
+
+                                                    
+                                                    <div class="activeIcon">
+                                                         <a target='_blank' href='/Subject/170927ho.aspx' style='background:#e9411f'>每满69减30</a>
+                                                    </div>
+                                                    
+
+                                                    <p class="recoLagu"></p>
+                                                    <div class="oparateButton">
+                                                        <a href="/shopcar/shoppingcart_add.aspx?book_id=6956745" target="_blank" class="buyButton">加入购物车</a>
+                                                        <a href="javascript:viod(0);" onclick="AddFavoriteBook('6956745')" class="collectBtn">收藏</a>
+                                                    </div>
+                                                </div>
+                                            </li>
+                                    
+                                </ul>
+                            </div>
+                            <div class='pagination'><div class='paging'><ul><li class='prev'><a href = '/kinder/53120000_0_0_11_0_1_12_0_0/' title='上一页' data-id=12>上一页</a></li><li class=''><a href = '/kinder/53120000_0_0_11_0_1_1_0_0/' title='1' data-id=1>1</a></li><li class=''><a href = '/kinder/53120000_0_0_11_0_1_2_0_0/' title='2' data-id=2>2</a></li><li><span>...</span></li><li class=''><a href = '/kinder/53120000_0_0_11_0_1_11_0_0/' title='11' data-id=11>11</a></li><li class=''><a href = '/kinder/53120000_0_0_11_0_1_12_0_0/' title='12' data-id=12>12</a></li><li class='current'><a href = 'javascript:viod(0);' title='13' data-id=13>13</a></li></ul></div></div>
+                        </div>
+                        <div class="listRight">
+                            <div class="listRightInner">
+                                <!--本类畅销-->
+                                <div class="hotBook">
+<h2>本类畅销</h2>
+<ul>
+<li>
+<div class="cover">
+<a href="/6801188.htm" target="_blank" title="中国神话与民间传说"><img src="http://image31.bookschina.com/images/feng200.jpg" alt="中国神话与民间传说" data-original ="http://image31.bookschina.com/2017/zuo/8/s6801188.jpg" class="lazyImg"/></a>
+</div>
+<div class="infor">
+<h3 class="name"><a href="/6801188.htm" target="_blank" title="中国神话与民间传说">中国神话与民间传说</a></h3>
+<div class="author"><span>明月生</span></div>
+<div class="priceWrap"><span class="sellPrice">&yen;22.4</span><del class="price">&yen;59</del></div>
+</div>
+</li>
+<li>
+<div class="cover">
+<a href="/7542142.htm" target="_blank" title="妖怪谈义"><img src="http://image31.bookschina.com/images/feng200.jpg" alt="妖怪谈义" data-original ="http://image12.bookschina.com/2017/20170829/s7542142.jpg" class="lazyImg"/></a>
+</div>
+<div class="infor">
+<h3 class="name"><a href="/7542142.htm" target="_blank" title="妖怪谈义">妖怪谈义</a></h3>
+<div class="author"><span>【日】柳田国男</span></div>
+<div class="priceWrap"><span class="sellPrice">&yen;24.3</span><del class="price">&yen;32</del></div>
+</div>
+</li>
+<li>
+<div class="cover">
+<a href="/7542148.htm" target="_blank" title="日本的传说"><img src="http://image31.bookschina.com/images/feng200.jpg" alt="日本的传说" data-original ="http://image12.bookschina.com/2017/20170829/s7542148.jpg" class="lazyImg"/></a>
+</div>
+<div class="infor">
+<h3 class="name"><a href="/7542148.htm" target="_blank" title="日本的传说">日本的传说</a></h3>
+<div class="author"><span>【日】柳田国男</span></div>
+<div class="priceWrap"><span class="sellPrice">&yen;24.1</span><del class="price">&yen;36</del></div>
+</div>
+</li>
+<li>
+<div class="cover">
+<a href="/7542144.htm" target="_blank" title="巫女考"><img src="http://image31.bookschina.com/images/feng200.jpg" alt="巫女考" data-original ="http://image12.bookschina.com/2017/20170829/s7542144.jpg" class="lazyImg"/></a>
+</div>
+<div class="infor">
+<h3 class="name"><a href="/7542144.htm" target="_blank" title="巫女考">巫女考</a></h3>
+<div class="author"><span>【日】柳田国男</span></div>
+<div class="priceWrap"><span class="sellPrice">&yen;24.3</span><del class="price">&yen;32</del></div>
+</div>
+</li>
+<li>
+<div class="cover">
+<a href="/7542141.htm" target="_blank" title="远野物语"><img src="http://image31.bookschina.com/images/feng200.jpg" alt="远野物语" data-original ="http://image12.bookschina.com/2017/20170829/s7542141.jpg" class="lazyImg"/></a>
+</div>
+<div class="infor">
+<h3 class="name"><a href="/7542141.htm" target="_blank" title="远野物语">远野物语</a></h3>
+<div class="author"><span>【日】柳田国男</span></div>
+<div class="priceWrap"><span class="sellPrice">&yen;26.1</span><del class="price">&yen;39</del></div>
+</div>
+</li>
+<li>
+<div class="cover">
+<a href="/7542155.htm" target="_blank" title="日本的昔话"><img src="http://image31.bookschina.com/images/feng200.jpg" alt="日本的昔话" data-original ="http://image12.bookschina.com/2017/20170829/s7542155.jpg" class="lazyImg"/></a>
+</div>
+<div class="infor">
+<h3 class="name"><a href="/7542155.htm" target="_blank" title="日本的昔话">日本的昔话</a></h3>
+<div class="author"><span>【日】柳田国男</span></div>
+<div class="priceWrap"><span class="sellPrice">&yen;24.1</span><del class="price">&yen;36</del></div>
+</div>
+</li>
+</ul></div>
+
+                                
+                                <!--本类新书-->
+                                <div class="newBook">
+<h2>本类新书</h2>
+<ul>
+<li>
+<div class="cover">
+<a href="/7542155.htm" target="_blank" title="日本的昔话"><img src="http://image31.bookschina.com/images/feng200.jpg" alt="日本的昔话" data-original ="http://image12.bookschina.com/2017/20170829/s7542155.jpg" class="lazyImg"/></a>
+</div>
+<div class="infor">
+<h3 class="name"><a href="/7542155.htm" target="_blank" title="日本的昔话">日本的昔话</a></h3>
+<div class="author"><span>【日】柳田国男</span></div>
+<div class="priceWrap"><span class="sellPrice">&yen;24.1</span><del class="price">&yen;36</del></div>
+</div>
+</li>
+<li>
+<div class="cover">
+<a href="/7542154.htm" target="_blank" title="女性的灵力"><img src="http://image31.bookschina.com/images/feng200.jpg" alt="女性的灵力" data-original ="http://image12.bookschina.com/2017/20170829/s7542154.jpg" class="lazyImg"/></a>
+</div>
+<div class="infor">
+<h3 class="name"><a href="/7542154.htm" target="_blank" title="女性的灵力">女性的灵力</a></h3>
+<div class="author"><span>【日】柳田国男</span></div>
+<div class="priceWrap"><span class="sellPrice">&yen;29.6</span><del class="price">&yen;39</del></div>
+</div>
+</li>
+<li>
+<div class="cover">
+<a href="/7542148.htm" target="_blank" title="日本的传说"><img src="http://image31.bookschina.com/images/feng200.jpg" alt="日本的传说" data-original ="http://image12.bookschina.com/2017/20170829/s7542148.jpg" class="lazyImg"/></a>
+</div>
+<div class="infor">
+<h3 class="name"><a href="/7542148.htm" target="_blank" title="日本的传说">日本的传说</a></h3>
+<div class="author"><span>【日】柳田国男</span></div>
+<div class="priceWrap"><span class="sellPrice">&yen;24.1</span><del class="price">&yen;36</del></div>
+</div>
+</li>
+<li>
+<div class="cover">
+<a href="/7542144.htm" target="_blank" title="巫女考"><img src="http://image31.bookschina.com/images/feng200.jpg" alt="巫女考" data-original ="http://image12.bookschina.com/2017/20170829/s7542144.jpg" class="lazyImg"/></a>
+</div>
+<div class="infor">
+<h3 class="name"><a href="/7542144.htm" target="_blank" title="巫女考">巫女考</a></h3>
+<div class="author"><span>【日】柳田国男</span></div>
+<div class="priceWrap"><span class="sellPrice">&yen;24.3</span><del class="price">&yen;32</del></div>
+</div>
+</li>
+<li>
+<div class="cover">
+<a href="/7542142.htm" target="_blank" title="妖怪谈义"><img src="http://image31.bookschina.com/images/feng200.jpg" alt="妖怪谈义" data-original ="http://image12.bookschina.com/2017/20170829/s7542142.jpg" class="lazyImg"/></a>
+</div>
+<div class="infor">
+<h3 class="name"><a href="/7542142.htm" target="_blank" title="妖怪谈义">妖怪谈义</a></h3>
+<div class="author"><span>【日】柳田国男</span></div>
+<div class="priceWrap"><span class="sellPrice">&yen;24.3</span><del class="price">&yen;32</del></div>
+</div>
+</li>
+<li>
+<div class="cover">
+<a href="/7542141.htm" target="_blank" title="远野物语"><img src="http://image31.bookschina.com/images/feng200.jpg" alt="远野物语" data-original ="http://image12.bookschina.com/2017/20170829/s7542141.jpg" class="lazyImg"/></a>
+</div>
+<div class="infor">
+<h3 class="name"><a href="/7542141.htm" target="_blank" title="远野物语">远野物语</a></h3>
+<div class="author"><span>【日】柳田国男</span></div>
+<div class="priceWrap"><span class="sellPrice">&yen;26.1</span><del class="price">&yen;39</del></div>
+</div>
+</li>
+</ul></div>
+
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="content">
+            <div class="siteHot" id="bzcx">
+                <div class="w1212">
+                    <div class="siteHotTitle">
+                        <h2>本站常销</h2>
+                    </div>
+                    <div class="siteHotCon" data-index="0">
+                        <div class="siteHotPannel">
+                            <ul>
+                                
+                                <li>
+                                    <div class="bookCover">
+                                        <a href="/5016543.htm" target="_blank" title="三国水浒与西游">
+                                            <img data-original="http://image31.bookschina.com/2011/20110212/s5016543.jpg" src="http://image31.bookschina.com/images/feng200.jpg" class="lazyImg" alt="三国水浒与西游" style="display: inline;" /></a>
+                                    </div>
+                                    <h3 class="bookName"><a href="/5016543.htm" target="_blank" title="三国水浒与西游">三国水浒与西游</a></h3>
+                                    <p class="bookAuthor">李辰冬</p>
+                                    <div class="priceWrap"><span class="salePrice">￥2.4</span><del class="price">￥8.0</del></div>
+                                    <div class="buyButton"><a href="/shopcar/shoppingcart_add.aspx?book_id=5016543" target="_blank">加入购物车</a></div>
+                                </li>
+                                
+                                <li>
+                                    <div class="bookCover">
+                                        <a href="/1726641.htm" target="_blank" title="人文博物馆(艺术卷)">
+                                            <img data-original="http://image31.bookschina.com/2016/zuo/s1726641.jpg" src="http://image31.bookschina.com/images/feng200.jpg" class="lazyImg" alt="人文博物馆(艺术卷)" style="display: inline;" /></a>
+                                    </div>
+                                    <h3 class="bookName"><a href="/1726641.htm" target="_blank" title="人文博物馆(艺术卷)">人文博物馆(艺术卷)</a></h3>
+                                    <p class="bookAuthor">凌晨光</p>
+                                    <div class="priceWrap"><span class="salePrice">￥15.8</span><del class="price">￥68.0</del></div>
+                                    <div class="buyButton"><a href="/shopcar/shoppingcart_add.aspx?book_id=1726641" target="_blank">加入购物车</a></div>
+                                </li>
+                                
+                                <li>
+                                    <div class="bookCover">
+                                        <a href="/4683425.htm" target="_blank" title="中国人的修养">
+                                            <img data-original="http://image31.bookschina.com/2010/20100705/s4683425.jpg" src="http://image31.bookschina.com/images/feng200.jpg" class="lazyImg" alt="中国人的修养" style="display: inline;" /></a>
+                                    </div>
+                                    <h3 class="bookName"><a href="/4683425.htm" target="_blank" title="中国人的修养">中国人的修养</a></h3>
+                                    <p class="bookAuthor">蔡元培</p>
+                                    <div class="priceWrap"><span class="salePrice">￥9.9</span><del class="price">￥22.0</del></div>
+                                    <div class="buyButton"><a href="/shopcar/shoppingcart_add.aspx?book_id=4683425" target="_blank">加入购物车</a></div>
+                                </li>
+                                
+                                <li>
+                                    <div class="bookCover">
+                                        <a href="/6334056.htm" target="_blank" title="我亲爱的时尚病患者-一个巴黎名店导购的秘密日记">
+                                            <img data-original="http://image12.bookschina.com/2013/20131104/s6334056.jpg" src="http://image31.bookschina.com/images/feng200.jpg" class="lazyImg" alt="我亲爱的时尚病患者-一个巴黎名店导购的秘密日记" style="display: inline;" /></a>
+                                    </div>
+                                    <h3 class="bookName"><a href="/6334056.htm" target="_blank" title="我亲爱的时尚病患者-一个巴黎名店导购的秘密日记">我亲爱的时尚病患者-一个巴黎名店导购的秘密日记</a></h3>
+                                    <p class="bookAuthor">（法）马丁　著，戴巧，何拙　译</p>
+                                    <div class="priceWrap"><span class="salePrice">￥10.2</span><del class="price">￥32.0</del></div>
+                                    <div class="buyButton"><a href="/shopcar/shoppingcart_add.aspx?book_id=6334056" target="_blank">加入购物车</a></div>
+                                </li>
+                                
+                                <li>
+                                    <div class="bookCover">
+                                        <a href="/5173995.htm" target="_blank" title="黑暗的心 吉姆爷">
+                                            <img data-original="http://image31.bookschina.com/2011/20110701/s5173995.jpg" src="http://image31.bookschina.com/images/feng200.jpg" class="lazyImg" alt="黑暗的心 吉姆爷" style="display: inline;" /></a>
+                                    </div>
+                                    <h3 class="bookName"><a href="/5173995.htm" target="_blank" title="黑暗的心 吉姆爷">黑暗的心 吉姆爷</a></h3>
+                                    <p class="bookAuthor">（英）康拉德　著，黄雨石，熊蕾　译</p>
+                                    <div class="priceWrap"><span class="salePrice">￥19.5</span><del class="price">￥30.0</del></div>
+                                    <div class="buyButton"><a href="/shopcar/shoppingcart_add.aspx?book_id=5173995" target="_blank">加入购物车</a></div>
+                                </li>
+                                
+                                <li>
+                                    <div class="bookCover">
+                                        <a href="/5904121.htm" target="_blank" title="众生安眠">
+                                            <img data-original="http://image12.bookschina.com/2014/20140305/s5904121.jpg" src="http://image31.bookschina.com/images/feng200.jpg" class="lazyImg" alt="众生安眠" style="display: inline;" /></a>
+                                    </div>
+                                    <h3 class="bookName"><a href="/5904121.htm" target="_blank" title="众生安眠">众生安眠</a></h3>
+                                    <p class="bookAuthor">库尔特·冯内古特</p>
+                                    <div class="priceWrap"><span class="salePrice">￥10.9</span><del class="price">￥28.0</del></div>
+                                    <div class="buyButton"><a href="/shopcar/shoppingcart_add.aspx?book_id=5904121" target="_blank">加入购物车</a></div>
+                                </li>
+                                
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+   <div class="footWrap">
+        <div class="footer_nav clearfix">
+            <div class="w1200">
+                <div class="footerNavInner clearfix">
+                    <dl class="fl">
+                        <dt>新手上路</dt>
+                        <dd><a href="/buydemo/default.asp" target="_blank">购物流程演示</a></dd>
+                        <dd><a href="/RegUser/Register.aspx" target="_blank">注册用户 更改注册信息</a><dd>
+                        <dd><a href="/question/default.asp" target="_blank">购物常见问题</a></dd>
+                        <dd><a href="/question/default0112.asp" target="_blank">关于特价书的常见问题</a></dd>
+                    </dl>
+                    <dl class="f2">
+                        <dt>购买问题</dt>
+                        <dd><a href="/vieworder/listorder.aspx" target="_blank">订单跟踪</a></dd>
+                        <dd><a href="/question/default2.asp" target="_blank">付款方式</a></dd>
+                        <dd><a href="/ViewOrder/deposit.aspx" target="_blank">账户余额</a>&nbsp;&nbsp;<a href="/vieworder/Refund.aspx" target="_blank">申请提现</a></dd>
+                        <dd><a href="/question/default3.asp" target="_blank">配送方式及费用、范围</a></dd>
+                        <dd><a href="/groupshop/default.asp" target="_blank">集团购买</a></dd>
+                    </dl>
+                    <dl class="f3">
+                        <dt>售后服务</dt>
+                        <dd><a href="/question/default4.asp" target="_blank">退换货流程</a></dd>
+                        <dd><a href="/sms/smsSend.aspx" target="_blank">投诉与建议</a></dd>
+                    </dl>
+                    <dl class="f4">
+                        <dt>特色服务</dt>
+                        <dd><a href="/ViewOrder/default.aspx" target="_blank">会员等级与积分</a></dd>
+                        <dd><a href="/vieworder/Card.aspx" target="_blank">中图书馨卡</a></dd>
+                        <dd><a href="/GROUPBUY/Subscribe.aspx" target="_blank">邮件订阅</a></dd>
+                        <dd><a href="/VIEWORDER/myinvite.aspx" target="_blank" style="color:#e60000">邀请好友购买返5元</a></dd>
+                    </dl>
+                    <dl class="f5" style="width:134px; border-right:1px solid #dadada">
+                        <dt>其他信息</dt>
+                        <dd><a href="/adservice/about.asp" target="_blank">本站简介</a></dd>
+                        <dd><a href="/adservice/about2.asp" target="_blank">联系我们</a></dd>
+                        <dd><a href="/adservice/bookshr.asp" target="_blank">招聘英才</a></dd>
+                        <dd><a href="/union/default.asp" target="_blank">网站联盟</a></dd>
+                        <dd><a href="/adservice/friend.aspx" target="_blank">友情链接</a></dd>
+                    </dl>
+                    <dl class="weixin margin15">
+                        <dt>微信公众号</dt>
+                        <dd>
+                            <img src="/Images/weixinerweima.jpg" alt="中图网微信" />
+                        </dd>
+                    </dl>
+                    <dl class="weixin">
+                        <dt>中图网微博</dt>
+                        <dd>
+                            <img src="/Images/weiboerweima.jpg" alt="中图网微博" />
+                        </dd>
+                    </dl>
+                    <dl class="weixin">
+                        <dt>手机中图</dt>
+                        <dd>
+                            <img src="/Images/phoneerweima.jpg" alt="手机中图" />
+                        </dd>
+                    </dl>
+                </div>
+            </div>
+        </div>
+
+        <div class="footBanner">
+            <div class="w1200">
+                <img src="/Images/footbannr.jpg" alt="中国图书网" />
+            </div>
+        </div>
+
+        <div class="certifica">
+            <div class="width820 clearfix">
+                <div class="credit_certifica">
+                    <a href="javascript:void(0)" onclick="javascript:window.location.href='https://search.szfw.org/cert/l/CX20150319007127007283'" target="_blank" title="中国图书网诚信认证">
+                        <img src="http://www.bookschina.com/images/chengxin.jpg" alt="诚信认证">
+                    </a>
+                    <a href="javascript:void(0)" onclick="javascript:window.location.href='http://www.ectrustprc.org.cn/seal/splash/1000006.htm'" target="_blank" title="中国图书网电子商务诚信单位认证"><img src="http://www.bookschina.com/images/ectrust.gif" alt="电子商务诚信单位认证"></a>
+                </div>
+
+                <div class="licence">
+                    <p><a href="http://www.miibeian.gov.cn/" target="_blank">经营许可证编号：京ICP备09013606号-3</a><a href="/include/type2.asp" target="_blank">京信市监发[2002]122号</a><span>海淀公安分局备案编号：1101083394</span></p>
+                    <p><a href="http://www.bookschina.com/Images/yyzz.jpg" target="_blank">营业执照</a><a href="/Images/jyxkz.jpg" target="_blank">出版物经营许可证</a></p>
+                </div>
+
+            </div>
+        </div>
+    </div>
+<div style="display:none">
+<script>
+    var _hmt = _hmt || [];
+    (function () {
+        var hm = document.createElement("script");
+        hm.src = "//hm.baidu.com/hm.js?6993f0ad5f90f4e1a0e6b2d471ca113a";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+</script>
+</div>
+
+        <div class="cusSer">
+            <div class="cusSerIn">
+                <a class="slide_min" onclick="NTKF.im_openInPageChat('kf_9067_1501484109259')">在线客服</a>
+            </div>
+        </div>
+        <script language="javascript" type="text/javascript">
+            NTKF_PARAM = {
+                siteid: "kf_9067",		             //企业ID，为固定值，必填
+                settingid: "kf_9067_1501484109259",	 //接待组ID，为固定值，必填
+                uid: "",		                 //用户ID，未登录可以为空，但不能给null，uid赋予的值在显示到小能客户端上
+                uname: "",		     //用户名，未登录可以为空，但不能给null，uname赋予的值显示到小能客户端上
+                isvip: "0",                           //是否为vip用户，0代表非会员，1代表会员，取值显示到小能客户端上
+                userlevel: "1",		                 //网站自定义会员级别，0-N，可根据选择判断，取值显示到小能客户端上
+                erpparam: "abc",                      //erpparam为erp功能的扩展字段，可选，购买erp功能后用于erp功能集成
+                ntalkerparam: {
+                    category: "民间文学",    //分类名称，多分类可以用分号(;)分隔， 长路径父子间用冒号(:)分割
+                    brand: ""             //品牌名称，多品牌可以用分号(;)分隔
+                }
+            }
+        </script>
+        <script type="text/javascript" src="http://dl.ntalker.com/js/xn6/ntkfstat.js?siteid=kf_9067" charset="utf-8"></script>
+    </form>
+    <script type="text/javascript" src="/Include/dataval/logintop.js?id=0904"></script>
+    <script type="text/javascript">
+        var ulCategoryHeight = $('#sele_catelist').height();
+        if (ulCategoryHeight == 40)
+            $('.selectSwitch').hide();
+
+        $(".lazyImg").scrollLoading();
+        $(".clearSelect").hover(function () {
+
+            $(".selectItem").addClass("hover");
+
+        }, function () {
+
+
+            $(".selectItem").removeClass("hover");
+
+        })
+
+        $(".selectSwitch").click(function () {
+
+
+            var $this = $(this);
+            var thisParent = $this.parents(".slectList").find(".slectCon");
+
+
+            if ($this.hasClass("on")) {
+
+                $this.removeClass("on");
+                thisParent.removeClass("on");
+                $this.find("a").html('<span class="icon dwon"></span>展开');
+            } else {
+                $this.addClass("on");
+                thisParent.addClass("on");
+                $this.find("a").html('<span class="icon dwon"></span>收起');
+            }
+        })
+
+        function PriceSearch() {
+            var url = $("#hidUrl").val();
+            var start = "0";
+            var end = "0";
+            if ($('#txtStartPrice').val().length > 0) {
+                start = $('#txtStartPrice').val();
+            }
+            if ($('#txtEndPrice').val().length > 0) {
+                end = $('#txtEndPrice').val();
+            }
+            window.location.href = url.replace("{0}", start).replace("{1}", end);
+        }
+
+        function AddFavoriteBook(bid) {
+            $.ajax({
+                url: "/ashx/AddFavoriteBook.ashx",
+                type: "GET",
+                data: {
+                    bid: bid
+                },
+                success: function (data) {
+                    var data = eval('(' + data + ')');
+                    if (data.Succeed) {
+                        SimplePop.alert("提示", {
+                            id: "kindPop",
+                            width: "109px",
+                            showTitle: false,
+                            height: "34px",
+                            time: 1,
+                            type: "info",
+                            opacity: 0,
+                            title: "",
+                            content: "<div class='dialogContent'><i class='txt_01'><span class='warnIcon'></span>收藏成功</i></div>"
+                        })
+                    }
+                    else {
+                        if (data.LoginUrl.length > 0) {
+                            window.location.href = data.LoginUrl;
+                        }
+                    }
+                }
+            });
+        }
+
+        $("#txtStartPrice").keyup(filterPrice);
+        $("#txtEndPrice").keyup(filterPrice);
+        function filterPrice() {
+            var price = $(this).val();
+            var reg = /^[0-9]+.?[0-9]*$/;
+            if (!reg.test(price)) { $(this).val(""); }
+        }
+
+        $(function () {
+
+            var pageSide = $(".listRight");
+            var vh = pageSide.height();
+            var pageSideOT = pageSide.offset().top;
+            var wH = $(window).height();
+            if ($(".listLeft").find(".bookList").length > 0) {
+                var pageMain = $(".bookList");
+            } else {
+                var pageMain = $(".bookBig");
+            }
+            
+
+            var pageSidebarIn = $(".listRightInner");
+            var wH = $(window).height();
+            $(window).scroll(function () {
+                var top = $(document).scrollTop();
+                var pageMainOT = pageMain.offset().top;
+                var pageMainH = pageMain.height();
+                //  侧边栏滚动
+                if (top - (pageSideOT + vh - wH) > 0 && vh < pageMainH) {
+                    pageSidebarIn.addClass("absoluted");
+                    if (top > (pageMainH + pageMainOT - $(window).height())) {
+                        pageSidebarIn.css("top", pageMainH - vh + "px")
+                    } else {
+                        pageSidebarIn.css("top", (top - (pageSideOT + vh - wH)) + "px")
+                    }
+                } else {
+                    pageSidebarIn.removeClass("absoluted");
+                    pageSidebarIn.css("top", 0)
+                }
+            })
+        })
+
+    </script>
+</body>
+</html>

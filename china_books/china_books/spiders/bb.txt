@@ -1,0 +1,16 @@
+http://www.bookschina.com/kinder/54110000_0_0_11_0_1_13_0_0/<li>
+<div class="cover">
+<a href="/7198459.htm" target="_blank" title="上海王">
+<img alt="上海王" class="lazyImg" data-original="http://image12.bookschina.com/2016/20160716/s7198459.jpg" src="http://image31.bookschina.com/images/feng200.jpg"/></a>
+</div>
+<div class="infor">
+<h2 class="name"><a href="/7198459.htm" target="_blank" title="上海王">上海王</a></h2>
+<div class="otherInfor"><a class="author" href="/Books/allbook/allauthor.asp?stype=author&amp;sbook=虹影" target="_blank">虹影</a><i>  /  </i><span class="pulishTiem" title="出版时间">2016-05-01  /  </span><a class="publisher" href="/publish/754114277/" target="_blank">四川文艺出版社</a></div>
+<div class="priceWrap"><span class="sellPrice">¥24.5</span><span class="discount">(6.8折)</span><span class="priceTit">定价:</span><del class="">¥36.0</del></div>
+<p class="recoLagu"></p>
+<div class="oparateButton">
+<a class="buyButton" href="/shopcar/shoppingcart_add.aspx?book_id=7198459" target="_blank">加入购物车</a>
+<a class="collectBtn" href="javascript:viod(0);" onclick="AddFavoriteBook('7198459')">收藏</a>
+</div>
+</div>
+</li>
